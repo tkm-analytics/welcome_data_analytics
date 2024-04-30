@@ -2,7 +2,7 @@
 
 # Data Analysis Project
 
-Welcome to the Data Analysis Project repository. This project focuses on analyzing and deriving insights from the provided dataset through various data analysis techniques.
+Welcome to the Data Analysis Project. This project focuses on analyzing and deriving insights from the provided dataset through various data analysis techniques.
 
 ## Key Areas of Data Analysis:
 
