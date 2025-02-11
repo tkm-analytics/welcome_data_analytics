@@ -1,0 +1,1001 @@
+Sale ID,Brand,Model,Processor,RAM (GB),Storage (GB),Price (USD),Purchase Date,City,Country,Payment Method
+1,Lenovo,Lenovo Rise-766,Intel i5,4,256,1859.86,2024-11-09,New Michelle,Cyprus,PayPal
+2,Dell,Dell Become-405,AMD Ryzen 7,32,256,760.84,2025-01-15,Samuelstad,Aruba,Credit Card
+3,Samsung,Samsung Student-497,AMD Ryzen 7,32,256,2964.55,2022-06-07,South Tammy,Greenland,Credit Card
+4,Acer,Acer Very-619,Intel i9,16,512,2344.89,2023-03-28,Williamsborough,Romania,Credit Card
+5,Samsung,Samsung Serious-762,Intel i5,4,256,1799.7,2023-10-21,Wilsonton,Switzerland,Cash
+6,Apple,Apple Baby-986,AMD Ryzen 5,8,512,1488.63,2024-03-13,New Tylerfurt,Barbados,PayPal
+7,MSI,MSI Rise-536,Intel i3,32,256,2098.03,2022-12-11,Bethbury,Montserrat,Cash
+8,Apple,Apple Ok-929,AMD Ryzen 5,8,256,2707.26,2025-02-08,Davidland,Pakistan,Cash
+9,Razer,Razer Glass-579,Intel i9,16,1024,2629.39,2023-06-25,Lake Margaretmouth,United Arab Emirates,Bank Transfer
+10,Acer,Acer Recently-293,Intel i7,16,256,1061.86,2022-09-14,Staffordfort,Somalia,Bank Transfer
+11,Samsung,Samsung Still-452,Intel i5,4,1024,1264.73,2023-12-18,Silvastad,Gabon,Bank Transfer
+12,MSI,MSI Range-586,AMD Ryzen 3,32,2048,2822.97,2024-05-19,Weaverborough,Saint Barthelemy,Cash
+13,HP,HP Several-350,AMD Ryzen 5,16,512,2074.3,2024-04-09,Nathanieltown,Mali,Cash
+14,Acer,Acer Else-462,AMD Ryzen 5,16,2048,1819.88,2024-05-14,Lake Beth,Guyana,Bank Transfer
+15,Microsoft,Microsoft Feeling-344,AMD Ryzen 3,32,1024,708.01,2022-05-30,New Brianview,Guatemala,Debit Card
+16,Microsoft,Microsoft Week-593,Intel i5,32,256,1404.68,2024-07-03,West Megan,Nicaragua,Cash
+17,Acer,Acer Second-647,Intel i5,16,1024,793.36,2022-05-10,Lake Alexandraview,French Guiana,UPI
+18,Samsung,Samsung May-656,AMD Ryzen 3,4,256,1978.78,2023-10-24,Connerview,Iceland,Cash
+19,Lenovo,Lenovo Fly-394,AMD Ryzen 3,16,1024,2287.88,2025-01-31,Marialand,Sierra Leone,Bank Transfer
+20,Lenovo,Lenovo Pick-346,Intel i9,4,2048,2720.28,2022-11-05,Xavierview,Brazil,Credit Card
+21,MSI,MSI Environment-500,AMD Ryzen 7,8,512,989.57,2024-07-21,Tiffanyshire,Spain,Credit Card
+22,Acer,Acer Nature-348,AMD Ryzen 7,16,1024,458.13,2023-05-30,South Brittanyburgh,Congo,Bank Transfer
+23,HP,HP Present-653,AMD Ryzen 7,32,2048,2891.12,2023-02-08,North Kimberly,Angola,Bank Transfer
+24,Microsoft,Microsoft Social-506,AMD Ryzen 5,32,1024,2859.97,2023-03-07,Lake Brendamouth,Lithuania,PayPal
+25,Apple,Apple Individual-564,Intel i3,16,512,1610.47,2023-03-26,Kaylaborough,South Georgia and the South Sandwich Islands,PayPal
+26,Razer,Razer Between-252,AMD Ryzen 3,8,512,1792.71,2024-03-18,South James,Central African Republic,PayPal
+27,Apple,Apple Collection-489,AMD Ryzen 5,4,512,698.56,2023-04-04,Port Michael,Vanuatu,Credit Card
+28,Acer,Acer Party-330,Intel i5,8,2048,2568.86,2022-03-20,New Barbaraburgh,Armenia,Debit Card
+29,Razer,Razer Seat-128,AMD Ryzen 5,16,2048,2124.5,2023-02-25,Freemanstad,Dominican Republic,PayPal
+30,Apple,Apple Market-963,AMD Ryzen 5,32,256,1135.44,2023-10-04,Lake Douglas,United Kingdom,Credit Card
+31,Asus,Asus Song-978,AMD Ryzen 5,32,2048,461.71,2024-07-28,Theresabury,United Arab Emirates,Cash
+32,Acer,Acer Away-990,Intel i9,32,256,2273.73,2022-08-09,Mariafort,Cape Verde,Bank Transfer
+33,Asus,Asus Leg-515,Intel i5,4,256,876.05,2022-02-26,Castillobury,Ghana,Credit Card
+34,Razer,Razer Ahead-731,Intel i9,4,2048,1425.84,2023-06-29,East Nathanielton,Vietnam,Cash
+35,Microsoft,Microsoft Respond-382,AMD Ryzen 5,8,512,1689.16,2023-04-29,East Crystal,Tonga,Bank Transfer
+36,Apple,Apple Movement-901,Intel i3,16,512,681.17,2024-01-16,Reedstad,Tunisia,Debit Card
+37,Microsoft,Microsoft Different-843,Intel i3,16,256,2005.33,2024-10-16,North Markton,Ethiopia,Cash
+38,Lenovo,Lenovo Woman-230,Intel i7,4,256,599.41,2023-09-22,Port Deanchester,Jordan,Cash
+39,Acer,Acer Official-817,Intel i5,4,512,1893.21,2023-09-30,North Bethshire,Georgia,Bank Transfer
+40,Lenovo,Lenovo Cold-300,AMD Ryzen 7,16,2048,415.79,2024-03-10,Millsfort,Tuvalu,Debit Card
+41,MSI,MSI Hand-549,AMD Ryzen 7,16,2048,1686.14,2022-09-14,Ianmouth,Oman,Credit Card
+42,MSI,MSI Enjoy-136,Intel i9,8,1024,1060.89,2024-07-18,Whiteland,United Arab Emirates,Cash
+43,Apple,Apple Course-603,AMD Ryzen 7,16,256,1555.82,2024-02-18,East Frank,Sri Lanka,PayPal
+44,Lenovo,Lenovo Which-614,Intel i9,32,1024,1251.42,2024-07-25,Jonesberg,Iran,Credit Card
+45,Lenovo,Lenovo Score-843,AMD Ryzen 5,4,512,2457.09,2023-02-17,Anneshire,Nicaragua,Credit Card
+46,MSI,MSI Party-237,Intel i7,32,2048,720.3,2024-10-25,West Richardport,Cote d'Ivoire,Bank Transfer
+47,Lenovo,Lenovo Girl-598,Intel i3,16,512,1135.15,2024-12-19,Lopezstad,Bosnia and Herzegovina,Cash
+48,Microsoft,Microsoft Four-884,AMD Ryzen 5,4,256,1394.92,2024-01-07,Powersfurt,Bangladesh,UPI
+49,Asus,Asus This-593,Intel i9,4,512,477.73,2024-02-28,South Lindaberg,Myanmar,Cash
+50,Dell,Dell Item-456,Intel i9,8,1024,2306.51,2022-08-20,South Kevinland,Fiji,Credit Card
+51,MSI,MSI Four-897,AMD Ryzen 3,4,512,2316.59,2023-02-22,Larryview,Cote d'Ivoire,PayPal
+52,Lenovo,Lenovo Else-233,AMD Ryzen 7,8,1024,2678.07,2024-06-10,Hamiltonport,Seychelles,Credit Card
+53,Razer,Razer View-165,Intel i3,32,256,999.23,2022-04-14,Castanedashire,Puerto Rico,Credit Card
+54,Apple,Apple Sport-549,Intel i9,4,1024,736.9,2022-07-23,Hernandezville,Papua New Guinea,Credit Card
+55,HP,HP Lead-343,Intel i5,16,256,971.24,2024-05-03,Mitchellshire,Poland,Credit Card
+56,Microsoft,Microsoft Design-285,Intel i7,8,256,2520.7,2024-09-20,South Charlotte,Algeria,Cash
+57,Samsung,Samsung Above-217,AMD Ryzen 7,16,2048,2556.32,2023-07-27,North Gabriela,Lesotho,Debit Card
+58,MSI,MSI Kind-420,AMD Ryzen 3,32,2048,1611.12,2022-07-15,Webbburgh,Suriname,Debit Card
+59,Lenovo,Lenovo Child-143,Intel i7,16,256,1251.0,2023-03-21,Jacobberg,British Virgin Islands,Credit Card
+60,MSI,MSI Event-259,AMD Ryzen 3,4,2048,2505.94,2023-07-28,New Leslieborough,Kazakhstan,PayPal
+61,Acer,Acer Middle-920,Intel i9,4,256,1556.78,2024-12-13,Marshallmouth,Brunei Darussalam,Bank Transfer
+62,Dell,Dell Leader-789,Intel i7,4,2048,1976.01,2024-02-21,Bautistafurt,Guinea-Bissau,Cash
+63,MSI,MSI Real-589,Intel i7,16,2048,1785.6,2022-02-24,Popetown,United Kingdom,Bank Transfer
+64,Lenovo,Lenovo Support-372,Intel i3,16,512,1452.8,2023-08-24,Smithmouth,Martinique,Credit Card
+65,Apple,Apple Mind-302,AMD Ryzen 5,8,256,1211.89,2023-10-05,East Alexander,Andorra,Cash
+66,Razer,Razer Fire-395,Intel i7,8,512,1209.92,2024-04-20,Port Tammy,Slovenia,UPI
+67,HP,HP Sport-754,Intel i9,32,512,1449.27,2025-02-07,Lynchshire,Moldova,Credit Card
+68,Samsung,Samsung Sign-820,Intel i9,32,1024,930.83,2022-07-13,South Malikside,Romania,Cash
+69,Samsung,Samsung Probably-228,Intel i9,4,256,1898.4,2024-10-29,Port Toni,Peru,Debit Card
+70,Acer,Acer While-659,Intel i3,4,2048,527.42,2022-11-02,South Brenda,Russian Federation,Credit Card
+71,Microsoft,Microsoft Single-968,Intel i7,8,256,1007.55,2023-11-29,Port Jenniferview,Germany,Debit Card
+72,Asus,Asus Meeting-768,Intel i5,8,1024,1434.43,2023-06-18,Myersland,Czech Republic,Debit Card
+73,Apple,Apple Red-728,Intel i9,4,2048,1990.0,2023-02-03,Carmenstad,French Polynesia,Cash
+74,Apple,Apple Worker-648,Intel i5,16,1024,675.14,2024-04-02,South Taramouth,United Kingdom,Bank Transfer
+75,Acer,Acer Race-388,Intel i5,8,256,2124.51,2022-10-23,Wilsonshire,Korea,PayPal
+76,Apple,Apple Much-722,AMD Ryzen 5,16,512,2649.21,2024-11-23,Meredithview,French Guiana,Cash
+77,Apple,Apple As-360,Intel i3,8,1024,1867.0,2023-04-14,Lesliemouth,Kenya,Cash
+78,Microsoft,Microsoft News-814,AMD Ryzen 7,16,256,1316.99,2023-06-04,Knightton,Montenegro,Cash
+79,Asus,Asus Area-635,AMD Ryzen 3,16,256,892.25,2022-07-07,Hicksshire,Korea,Bank Transfer
+80,Lenovo,Lenovo Consumer-678,Intel i9,8,1024,2756.35,2024-04-07,New Manuelport,Uruguay,PayPal
+81,Lenovo,Lenovo Particularly-849,AMD Ryzen 5,32,512,602.77,2022-12-14,Oliviaburgh,Haiti,Cash
+82,MSI,MSI Once-677,Intel i9,4,256,1644.21,2024-08-24,Coleview,Zambia,PayPal
+83,Samsung,Samsung Subject-493,Intel i7,32,1024,2037.31,2023-10-24,South Patrick,Palau,Cash
+84,Apple,Apple Wonder-103,Intel i7,4,512,1013.09,2025-01-29,West Amber,Namibia,Credit Card
+85,Razer,Razer Sister-879,Intel i7,32,256,1882.45,2022-05-05,Carrollfurt,Iraq,Debit Card
+86,Dell,Dell Area-923,Intel i5,4,512,728.95,2022-08-24,Sheliafort,Burkina Faso,Bank Transfer
+87,Lenovo,Lenovo Act-893,AMD Ryzen 5,16,1024,2226.64,2024-08-14,Jaredstad,Cote d'Ivoire,Bank Transfer
+88,Microsoft,Microsoft Finally-763,Intel i9,8,512,1603.3,2023-03-09,Parkermouth,Saint Vincent and the Grenadines,Credit Card
+89,Lenovo,Lenovo Ready-515,Intel i5,32,1024,1132.53,2022-07-04,Lake Zachary,Portugal,Credit Card
+90,Microsoft,Microsoft Capital-998,AMD Ryzen 5,8,256,2262.11,2023-10-05,Laurashire,India,PayPal
+91,Razer,Razer Age-148,AMD Ryzen 7,4,512,1728.18,2022-02-18,Lake William,Bahrain,Debit Card
+92,Acer,Acer Inside-170,Intel i3,16,2048,897.7,2024-11-08,Lauraside,Ireland,PayPal
+93,Apple,Apple Government-840,AMD Ryzen 3,4,512,2260.45,2022-03-13,Lake Gabrielmouth,Oman,PayPal
+94,Microsoft,Microsoft Increase-753,Intel i5,16,512,2145.68,2022-10-28,Port Carmenchester,Romania,Debit Card
+95,Dell,Dell Hear-882,AMD Ryzen 5,16,512,1564.61,2023-10-21,Port James,Niue,Debit Card
+96,Acer,Acer Floor-366,AMD Ryzen 5,32,512,1949.8,2024-12-01,Timside,Mayotte,UPI
+97,Dell,Dell Choice-955,Intel i3,16,512,1054.54,2022-06-17,East Marymouth,Pakistan,Credit Card
+98,Samsung,Samsung Industry-841,AMD Ryzen 7,8,256,1749.66,2023-08-01,Lynchtown,Mozambique,PayPal
+99,MSI,MSI Foreign-367,Intel i9,32,512,820.16,2024-09-25,Bakerport,Malaysia,PayPal
+100,Lenovo,Lenovo Turn-664,Intel i7,16,1024,713.9,2023-10-01,Lake Arthurhaven,Northern Mariana Islands,PayPal
+101,Acer,Acer Hair-978,Intel i3,16,256,1411.9,2022-03-13,Bellport,Ethiopia,UPI
+102,MSI,MSI Discover-849,AMD Ryzen 3,32,2048,660.03,2023-10-01,Bradfordmouth,Congo,Debit Card
+103,Microsoft,Microsoft Through-551,Intel i3,32,512,2689.23,2023-11-04,New Moniquehaven,Finland,Debit Card
+104,Microsoft,Microsoft Any-260,Intel i3,4,1024,2203.46,2024-10-17,Lisahaven,Saint Martin,Cash
+105,Microsoft,Microsoft Firm-722,Intel i7,4,2048,1695.03,2023-10-11,New Charles,Equatorial Guinea,PayPal
+106,HP,HP Unit-867,AMD Ryzen 3,8,512,554.76,2023-02-05,Lake Kimberlybury,United States Virgin Islands,Bank Transfer
+107,Razer,Razer Social-436,AMD Ryzen 3,4,2048,725.75,2023-08-05,Rochahaven,Qatar,Credit Card
+108,Samsung,Samsung Activity-629,AMD Ryzen 7,8,2048,1589.12,2023-09-30,New Rebeccaberg,Switzerland,Bank Transfer
+109,HP,HP Role-284,AMD Ryzen 7,8,256,1172.3,2024-04-14,Port Rebeccatown,Cambodia,Bank Transfer
+110,Acer,Acer Article-195,AMD Ryzen 7,4,256,2730.01,2023-02-03,North Kaylaport,Marshall Islands,UPI
+111,Razer,Razer Hair-863,AMD Ryzen 3,4,2048,891.77,2022-09-06,West Robert,Honduras,Credit Card
+112,HP,HP Wish-254,Intel i3,16,2048,800.87,2024-11-21,Littlechester,United States Virgin Islands,PayPal
+113,Microsoft,Microsoft Book-616,Intel i3,16,2048,1521.5,2024-11-10,Catherinefurt,Cuba,PayPal
+114,Lenovo,Lenovo Six-464,Intel i5,16,2048,1566.79,2022-07-20,North Davidburgh,Reunion,Debit Card
+115,MSI,MSI Push-580,AMD Ryzen 3,4,256,1096.05,2023-10-31,Weissmouth,Chile,Bank Transfer
+116,Apple,Apple Impact-581,Intel i3,16,512,2687.89,2025-01-29,West Rachel,Liechtenstein,Credit Card
+117,Asus,Asus Stand-927,Intel i5,32,256,990.91,2022-04-30,Crawfordtown,Turks and Caicos Islands,Bank Transfer
+118,Razer,Razer Them-411,AMD Ryzen 7,32,1024,1121.0,2024-10-22,Walshchester,Panama,Bank Transfer
+119,Apple,Apple Attention-320,AMD Ryzen 3,4,2048,2619.31,2022-11-24,Tinamouth,Tuvalu,UPI
+120,Lenovo,Lenovo Property-883,AMD Ryzen 5,32,1024,1198.45,2023-06-10,Robinsonton,Algeria,Credit Card
+121,Apple,Apple Never-578,Intel i9,16,2048,2242.14,2023-05-07,Elizabethshire,Cape Verde,Cash
+122,MSI,MSI Relationship-927,AMD Ryzen 7,16,2048,1606.74,2022-06-13,East Savannahport,Congo,Bank Transfer
+123,Dell,Dell Seat-523,AMD Ryzen 3,8,256,1473.99,2024-10-06,Nancyfurt,Guam,Credit Card
+124,Samsung,Samsung Could-457,Intel i9,16,1024,1073.71,2022-06-30,Port James,Heard Island and McDonald Islands,PayPal
+125,Microsoft,Microsoft Off-173,AMD Ryzen 7,16,256,760.41,2023-01-14,South James,United States of America,Cash
+126,Acer,Acer Performance-480,Intel i3,16,256,2567.73,2023-09-28,Christopherport,Swaziland,Debit Card
+127,Razer,Razer Leader-960,Intel i3,32,2048,769.13,2023-07-20,Bennettmouth,Benin,Debit Card
+128,HP,HP Perform-667,Intel i9,16,512,2489.63,2024-09-28,Rogersmouth,Peru,Cash
+129,Asus,Asus Threat-857,AMD Ryzen 5,4,2048,2048.56,2022-05-05,West Tammie,Netherlands,Debit Card
+130,Apple,Apple Four-531,Intel i5,16,256,1854.69,2024-12-06,Lake Brandon,Korea,PayPal
+131,Dell,Dell Audience-242,Intel i3,4,256,2790.94,2022-05-07,Nguyenville,Japan,Debit Card
+132,Microsoft,Microsoft Sport-420,AMD Ryzen 7,32,256,1332.07,2024-06-19,Hollandstad,Aruba,Bank Transfer
+133,Microsoft,Microsoft Time-583,Intel i9,4,256,2708.14,2023-06-30,East Christopher,Falkland Islands (Malvinas),UPI
+134,Lenovo,Lenovo Evening-457,Intel i7,32,1024,1521.68,2024-06-16,Marychester,Anguilla,Debit Card
+135,MSI,MSI Expect-720,Intel i3,16,2048,1007.45,2024-05-06,Sarahtown,Namibia,PayPal
+136,HP,HP View-862,AMD Ryzen 7,32,2048,1722.07,2024-09-20,Ginashire,Australia,PayPal
+137,Apple,Apple Individual-964,Intel i9,16,512,1056.06,2022-06-22,New Brandonburgh,Sri Lanka,Cash
+138,Microsoft,Microsoft Religious-462,Intel i7,32,256,1008.64,2024-05-31,Jameston,Kuwait,Bank Transfer
+139,HP,HP Knowledge-495,Intel i5,8,512,1249.64,2024-08-02,Gabrielstad,Poland,Bank Transfer
+140,Dell,Dell Sound-990,Intel i7,32,512,1989.52,2023-03-20,Lake Andrewland,Saint Helena,Bank Transfer
+141,Apple,Apple In-533,AMD Ryzen 3,8,2048,1654.19,2023-05-23,Daleville,United Kingdom,Bank Transfer
+142,Asus,Asus Challenge-357,AMD Ryzen 7,4,256,2373.4,2022-03-01,East David,Bouvet Island (Bouvetoya),Bank Transfer
+143,Lenovo,Lenovo Best-666,Intel i7,16,2048,1463.85,2024-08-16,Meghantown,British Virgin Islands,Debit Card
+144,MSI,MSI Mrs-441,AMD Ryzen 7,32,512,1901.54,2024-04-06,Briannamouth,Gibraltar,Bank Transfer
+145,HP,HP Hold-510,Intel i7,32,1024,469.0,2024-04-30,New Jasonfort,Barbados,Credit Card
+146,MSI,MSI Though-673,Intel i7,32,1024,2697.91,2023-05-02,Robertaland,Czech Republic,PayPal
+147,Microsoft,Microsoft Kitchen-403,AMD Ryzen 3,32,1024,1220.33,2023-10-07,West Kevin,Cote d'Ivoire,PayPal
+148,HP,HP About-150,Intel i9,16,512,1412.73,2023-08-26,Lake Tylerland,Madagascar,Bank Transfer
+149,HP,HP Force-230,AMD Ryzen 5,16,1024,1872.36,2023-02-09,Jonathanburgh,Pakistan,Credit Card
+150,Microsoft,Microsoft Shoulder-372,AMD Ryzen 3,4,512,2473.14,2022-05-18,Port Danielburgh,Lesotho,Debit Card
+151,MSI,MSI Manage-242,Intel i5,16,256,715.14,2023-12-18,Johnside,Belize,UPI
+152,Razer,Razer Same-626,Intel i7,4,512,2129.13,2023-07-17,Faulknertown,Oman,Debit Card
+153,Acer,Acer Expert-991,Intel i3,4,256,1315.09,2024-08-19,Davidland,Congo,Credit Card
+154,Asus,Asus Someone-173,Intel i3,16,1024,2701.48,2022-05-04,Marcusfort,Austria,Credit Card
+155,Apple,Apple Still-187,Intel i9,32,2048,775.07,2023-04-03,Port Travismouth,Saint Pierre and Miquelon,Cash
+156,Dell,Dell Run-352,AMD Ryzen 5,4,2048,1305.57,2024-04-30,South Meganborough,Marshall Islands,Cash
+157,Acer,Acer Support-106,Intel i7,16,1024,608.47,2024-04-30,Houstonfurt,Sri Lanka,PayPal
+158,MSI,MSI Statement-161,Intel i3,32,2048,1808.9,2024-08-03,Lisafort,Seychelles,UPI
+159,Microsoft,Microsoft Result-889,Intel i7,16,2048,751.16,2022-12-16,Richardside,Guernsey,Debit Card
+160,Acer,Acer Significant-933,Intel i9,16,256,2577.05,2024-06-23,New Sandra,Liechtenstein,Debit Card
+161,Acer,Acer Development-738,AMD Ryzen 7,16,256,860.09,2022-02-18,Collierstad,Ireland,Debit Card
+162,Acer,Acer Several-839,Intel i5,4,256,2119.14,2024-03-21,Lake Stevenburgh,Saint Barthelemy,Cash
+163,Asus,Asus Put-711,AMD Ryzen 7,8,512,407.85,2023-01-03,Brianmouth,Niue,Bank Transfer
+164,Microsoft,Microsoft Surface-838,Intel i9,16,2048,2179.02,2024-08-12,Knightberg,Falkland Islands (Malvinas),Credit Card
+165,Apple,Apple Without-321,AMD Ryzen 3,16,256,2714.77,2022-07-16,East Jasmine,Burundi,Bank Transfer
+166,Lenovo,Lenovo Force-742,AMD Ryzen 5,8,256,1234.53,2024-01-18,East Rachelshire,Tanzania,PayPal
+167,Microsoft,Microsoft Toward-680,AMD Ryzen 5,8,1024,819.38,2023-04-19,New Walter,Gambia,Credit Card
+168,Microsoft,Microsoft Her-400,Intel i7,4,512,2972.06,2024-10-23,Lambertville,Seychelles,Cash
+169,Samsung,Samsung Character-898,AMD Ryzen 5,32,2048,1506.65,2023-05-06,Lake Mitchell,Liberia,Credit Card
+170,Samsung,Samsung Listen-526,Intel i3,4,1024,1821.74,2023-05-21,East Jasontown,Paraguay,Cash
+171,Microsoft,Microsoft Raise-910,Intel i5,32,2048,1527.09,2023-10-31,Samuelhaven,Liberia,Bank Transfer
+172,Acer,Acer Adult-426,Intel i5,8,512,1531.19,2022-02-13,Arielmouth,Seychelles,Credit Card
+173,Lenovo,Lenovo Agent-295,Intel i7,4,2048,2846.27,2022-02-22,Carpentermouth,Svalbard & Jan Mayen Islands,PayPal
+174,Asus,Asus Behind-685,Intel i7,16,1024,1471.09,2023-01-02,Port Timothytown,Grenada,UPI
+175,Apple,Apple Ahead-114,Intel i7,4,512,739.27,2024-04-01,East Jeremy,British Indian Ocean Territory (Chagos Archipelago),Cash
+176,Dell,Dell Page-345,AMD Ryzen 7,16,1024,871.79,2022-10-27,Jeanettefurt,Luxembourg,PayPal
+177,Samsung,Samsung Laugh-245,Intel i7,4,1024,2916.37,2024-09-08,Marcusview,Poland,PayPal
+178,Acer,Acer Writer-941,Intel i5,8,2048,2193.35,2023-04-03,Schmidtside,Ecuador,UPI
+179,Acer,Acer Week-810,Intel i3,32,512,431.6,2023-09-17,New Robertland,Latvia,UPI
+180,MSI,MSI Enter-730,Intel i7,4,512,2340.1,2024-08-04,Reedburgh,Chile,Cash
+181,Acer,Acer First-401,Intel i7,4,512,1138.2,2022-08-26,West Kennethview,Cyprus,Bank Transfer
+182,Acer,Acer Various-270,AMD Ryzen 3,32,1024,854.79,2023-01-05,Lake Jeffery,Romania,UPI
+183,Samsung,Samsung Start-374,Intel i3,4,512,1078.84,2022-02-17,Woodstad,Trinidad and Tobago,PayPal
+184,Apple,Apple Economic-523,AMD Ryzen 3,4,2048,2859.12,2024-11-21,Kimfurt,India,Debit Card
+185,Lenovo,Lenovo Position-594,AMD Ryzen 3,32,256,2989.37,2024-03-31,Garciamouth,Ukraine,PayPal
+186,Samsung,Samsung Start-593,Intel i5,4,2048,716.89,2022-12-01,North Chadview,Aruba,UPI
+187,Acer,Acer Spend-226,AMD Ryzen 5,4,256,1111.11,2023-10-22,East Michael,Cape Verde,Credit Card
+188,MSI,MSI Husband-106,Intel i7,32,1024,754.81,2022-07-07,Bondville,Montenegro,Bank Transfer
+189,Samsung,Samsung Staff-788,Intel i3,16,512,2019.07,2022-12-27,West Kristinborough,Georgia,Cash
+190,Razer,Razer Office-924,Intel i5,16,512,2514.75,2023-07-17,West Patricia,Qatar,Cash
+191,Samsung,Samsung Ball-358,AMD Ryzen 3,16,1024,437.49,2024-05-13,New Stephen,United States Virgin Islands,UPI
+192,HP,HP Debate-440,AMD Ryzen 5,32,256,810.79,2023-11-05,Jacobhaven,Angola,UPI
+193,Apple,Apple Finally-971,Intel i9,4,512,1861.38,2022-05-16,Port Susanville,Norfolk Island,PayPal
+194,Apple,Apple Evidence-140,Intel i3,4,512,768.64,2024-01-24,East Margaret,Cocos (Keeling) Islands,PayPal
+195,Asus,Asus Fight-756,AMD Ryzen 3,4,256,1203.46,2022-04-14,Wardmouth,Wallis and Futuna,Cash
+196,Lenovo,Lenovo Entire-822,Intel i7,8,1024,1744.9,2024-02-16,New Debbiefort,El Salvador,Cash
+197,Lenovo,Lenovo Season-396,Intel i9,32,2048,1593.82,2022-03-03,Andersonmouth,Jordan,Debit Card
+198,Apple,Apple Common-125,AMD Ryzen 5,16,256,778.71,2024-11-30,Lake Richardmouth,Egypt,Debit Card
+199,Dell,Dell Probably-457,Intel i7,4,512,2176.12,2022-12-18,East Kennethfurt,Montenegro,UPI
+200,MSI,MSI Can-265,Intel i3,8,2048,1931.31,2023-06-07,East Nicolefort,Holy See (Vatican City State),Bank Transfer
+201,Acer,Acer Discussion-137,AMD Ryzen 7,16,2048,968.34,2024-10-09,South Anthony,Libyan Arab Jamahiriya,Debit Card
+202,Razer,Razer Around-270,Intel i9,16,1024,2151.74,2023-02-17,South Michaeltown,San Marino,PayPal
+203,Razer,Razer How-241,AMD Ryzen 3,32,2048,565.27,2023-01-10,Sherriville,Finland,PayPal
+204,MSI,MSI Media-458,Intel i9,32,256,1165.26,2024-05-16,Bettyton,Cayman Islands,Credit Card
+205,Lenovo,Lenovo Size-259,AMD Ryzen 7,8,1024,2102.56,2022-11-04,Barrettburgh,Mozambique,Debit Card
+206,Dell,Dell Month-177,Intel i7,4,1024,2561.36,2023-07-14,South Zachary,Slovakia (Slovak Republic),Cash
+207,Samsung,Samsung Bed-695,Intel i9,16,1024,2878.16,2024-04-10,Leeton,Bermuda,UPI
+208,Dell,Dell Maintain-383,AMD Ryzen 5,32,256,2004.04,2023-02-04,North Nathan,Uruguay,Credit Card
+209,Razer,Razer Third-791,AMD Ryzen 3,32,256,1579.13,2022-08-12,West Michelle,Italy,Bank Transfer
+210,Lenovo,Lenovo Without-485,Intel i3,8,1024,2734.22,2022-05-24,East Henrychester,Andorra,UPI
+211,Asus,Asus Perhaps-727,Intel i9,4,1024,2222.15,2023-02-16,North Michael,French Southern Territories,Bank Transfer
+212,Lenovo,Lenovo Sea-366,Intel i7,4,2048,2938.59,2022-08-24,South Kelsey,Afghanistan,Bank Transfer
+213,Microsoft,Microsoft Law-465,Intel i5,8,1024,1626.27,2023-05-20,Johnsonmouth,Turkmenistan,Cash
+214,Dell,Dell Mouth-268,Intel i3,32,256,680.02,2024-12-20,New Nicoleland,Turkmenistan,Bank Transfer
+215,Acer,Acer Social-155,AMD Ryzen 3,16,256,1380.19,2022-06-13,Jacquelineport,Senegal,Bank Transfer
+216,Acer,Acer Mother-324,Intel i5,16,2048,1851.15,2024-11-03,Taraberg,Honduras,Debit Card
+217,Asus,Asus Once-459,AMD Ryzen 5,4,256,2573.84,2024-10-21,East Catherine,British Indian Ocean Territory (Chagos Archipelago),Bank Transfer
+218,Razer,Razer Fine-331,Intel i3,16,1024,2014.44,2024-05-27,Lake Brianburgh,Japan,Debit Card
+219,HP,HP Economic-599,AMD Ryzen 7,8,1024,2156.03,2024-06-06,Diazland,Algeria,Cash
+220,Samsung,Samsung Box-483,Intel i3,32,1024,1756.82,2022-11-14,Danielbury,Madagascar,Cash
+221,Acer,Acer Financial-516,Intel i3,16,512,1483.79,2023-06-25,Lake Gina,Kyrgyz Republic,PayPal
+222,Asus,Asus Or-743,Intel i5,16,512,449.89,2024-02-24,North Erinchester,Antarctica (the territory South of 60 deg S),UPI
+223,Asus,Asus Each-130,Intel i9,16,2048,2725.28,2023-07-08,Briannamouth,Seychelles,Bank Transfer
+224,Apple,Apple Run-445,Intel i3,16,1024,2861.68,2023-02-18,Shepherdstad,Nepal,Cash
+225,Asus,Asus If-692,Intel i9,32,1024,2550.04,2024-06-13,Briannabury,Marshall Islands,Bank Transfer
+226,Microsoft,Microsoft Collection-866,AMD Ryzen 7,16,256,2056.17,2023-04-30,South Nicholashaven,Guinea,Cash
+227,Apple,Apple Natural-878,Intel i7,8,1024,641.88,2023-09-17,Simmonsside,South Georgia and the South Sandwich Islands,UPI
+228,MSI,MSI Course-713,Intel i5,32,1024,2776.52,2022-03-13,Brianland,Congo,PayPal
+229,Razer,Razer Respond-354,Intel i5,8,2048,736.52,2024-12-14,Rebeccaview,Turks and Caicos Islands,UPI
+230,Asus,Asus Us-402,AMD Ryzen 3,4,256,847.3,2023-07-17,Castilloland,Oman,Bank Transfer
+231,Microsoft,Microsoft Life-568,Intel i5,4,1024,1356.03,2023-09-21,West Ernest,United States of America,Cash
+232,Asus,Asus Pretty-428,AMD Ryzen 7,8,256,512.0,2023-05-05,Lake Heather,Cayman Islands,Bank Transfer
+233,Razer,Razer Last-744,Intel i9,32,1024,1925.18,2022-12-08,Aguilarhaven,Tonga,UPI
+234,HP,HP Sure-758,AMD Ryzen 7,32,1024,2041.21,2024-10-31,Petersenside,Cook Islands,PayPal
+235,Samsung,Samsung Pm-731,Intel i9,8,2048,2683.81,2022-09-28,Lynchmouth,Mali,Credit Card
+236,Asus,Asus Theory-435,AMD Ryzen 5,8,512,1356.39,2022-08-14,Jenniferland,Chile,Debit Card
+237,Razer,Razer Open-883,AMD Ryzen 5,32,2048,2769.3,2023-08-20,Wolfeborough,Oman,Credit Card
+238,Apple,Apple Create-885,AMD Ryzen 3,32,1024,1261.91,2022-04-22,Diaztown,Latvia,Debit Card
+239,Dell,Dell Statement-965,Intel i9,4,512,543.65,2022-09-03,East Elizabeth,Guinea,Credit Card
+240,Dell,Dell Down-114,AMD Ryzen 3,4,1024,2345.17,2022-03-09,Smallmouth,Sudan,Credit Card
+241,MSI,MSI Police-735,Intel i5,8,2048,1247.29,2023-06-29,Lisafurt,French Guiana,Bank Transfer
+242,Samsung,Samsung About-118,Intel i9,16,512,2296.18,2023-10-11,Michaelshire,Kenya,UPI
+243,Apple,Apple Green-550,AMD Ryzen 7,32,512,2960.07,2023-12-02,Davidmouth,Bermuda,Cash
+244,Asus,Asus Political-905,Intel i9,16,256,651.08,2023-08-28,East John,Malawi,Cash
+245,Lenovo,Lenovo Part-476,Intel i9,4,256,2223.63,2023-03-01,Robertfort,Libyan Arab Jamahiriya,Cash
+246,Dell,Dell Box-366,AMD Ryzen 3,8,512,1924.86,2023-06-03,Janetside,Saint Vincent and the Grenadines,UPI
+247,Acer,Acer Less-684,Intel i7,8,2048,2321.51,2023-09-01,West Stephanieland,Haiti,Debit Card
+248,Lenovo,Lenovo Happen-324,Intel i3,16,512,2386.84,2023-12-11,East Emilyborough,Guinea,Credit Card
+249,MSI,MSI Meeting-940,AMD Ryzen 7,4,512,1255.01,2025-01-21,Gallegoston,Zimbabwe,Cash
+250,Dell,Dell Ever-650,Intel i5,4,512,2636.85,2023-11-02,Williamstown,Myanmar,Debit Card
+251,Lenovo,Lenovo Through-260,Intel i5,4,1024,2669.76,2024-01-26,Reginaport,Chile,Bank Transfer
+252,MSI,MSI Institution-671,Intel i7,8,256,2646.65,2024-10-09,West Maria,Ireland,Credit Card
+253,Microsoft,Microsoft Standard-247,AMD Ryzen 3,32,256,1200.15,2024-11-21,Mcgrathtown,Canada,Bank Transfer
+254,Lenovo,Lenovo Hour-808,Intel i5,4,1024,1166.31,2022-04-11,West Julie,Norfolk Island,Debit Card
+255,Apple,Apple Little-847,AMD Ryzen 3,8,1024,1717.29,2022-02-14,South Jamesborough,Turks and Caicos Islands,Debit Card
+256,HP,HP Audience-236,Intel i9,16,512,1435.31,2024-05-06,Lake Jeffreyhaven,Lithuania,Cash
+257,Samsung,Samsung Far-739,Intel i3,4,256,959.53,2024-04-04,North Ericbury,Faroe Islands,Cash
+258,Microsoft,Microsoft Those-274,Intel i3,16,256,1511.32,2023-05-29,Clarkeside,Georgia,Credit Card
+259,Acer,Acer Environment-889,AMD Ryzen 7,4,2048,2137.64,2023-12-02,East Angelastad,Cape Verde,UPI
+260,MSI,MSI Everyone-753,AMD Ryzen 5,16,512,926.43,2022-08-09,Hallbury,South Georgia and the South Sandwich Islands,PayPal
+261,Acer,Acer Hospital-843,Intel i9,4,512,2667.69,2024-01-10,West Scott,Switzerland,Credit Card
+262,Dell,Dell Wrong-207,AMD Ryzen 7,16,256,2062.58,2022-07-12,Robinsonmouth,Taiwan,Bank Transfer
+263,Lenovo,Lenovo Why-363,AMD Ryzen 3,32,512,444.61,2024-07-24,West Douglastown,Ethiopia,UPI
+264,Microsoft,Microsoft Director-801,AMD Ryzen 5,16,1024,726.07,2023-02-28,Lake Kayla,Argentina,UPI
+265,Acer,Acer Debate-961,Intel i3,8,2048,474.89,2023-04-22,Michaelview,Morocco,Cash
+266,Lenovo,Lenovo Dog-460,AMD Ryzen 7,4,512,2368.24,2023-01-20,Danieltown,French Polynesia,Bank Transfer
+267,Microsoft,Microsoft Allow-191,AMD Ryzen 5,4,2048,2108.35,2022-07-03,Rodriguezton,Gibraltar,Bank Transfer
+268,Acer,Acer Its-249,Intel i3,16,2048,1884.82,2024-03-18,North George,Jordan,Credit Card
+269,Acer,Acer Choice-885,AMD Ryzen 3,32,256,866.64,2024-06-10,Lake Lauraport,Greenland,PayPal
+270,Razer,Razer After-205,AMD Ryzen 3,8,256,1242.14,2024-01-27,Dylanside,Guam,Cash
+271,Asus,Asus Group-427,Intel i5,32,2048,1988.28,2023-11-26,New Nancyview,Libyan Arab Jamahiriya,Bank Transfer
+272,HP,HP Nice-543,Intel i3,16,512,1001.91,2024-10-20,Ramirezview,Somalia,UPI
+273,Acer,Acer Clear-849,Intel i9,32,512,1454.44,2024-03-03,Odomfurt,Iceland,UPI
+274,Dell,Dell Religious-109,AMD Ryzen 7,4,512,2720.27,2023-10-02,Coxbury,Switzerland,Credit Card
+275,Samsung,Samsung Box-204,AMD Ryzen 5,4,512,919.5,2025-01-26,Lake Brian,Montserrat,Cash
+276,MSI,MSI Director-785,Intel i7,8,512,1064.15,2024-10-19,Johnsonstad,Belgium,Bank Transfer
+277,Acer,Acer Available-437,Intel i9,16,256,686.05,2023-11-17,Gregoryshire,Dominican Republic,Debit Card
+278,Microsoft,Microsoft Activity-974,Intel i7,16,256,2065.03,2022-09-27,West Michael,Ireland,PayPal
+279,MSI,MSI Experience-554,Intel i3,4,512,2145.54,2023-01-07,East Beth,Guinea-Bissau,Debit Card
+280,MSI,MSI Lose-647,Intel i7,32,256,1943.78,2024-02-03,Crystalview,Turks and Caicos Islands,PayPal
+281,HP,HP Technology-219,AMD Ryzen 7,4,256,2824.17,2022-05-14,West Marcus,Liberia,Cash
+282,Razer,Razer Meet-204,Intel i9,16,256,1615.48,2024-09-26,Fryeport,Timor-Leste,Bank Transfer
+283,Acer,Acer Over-370,Intel i5,4,2048,583.82,2024-10-24,East Peterton,Bolivia,Credit Card
+284,Lenovo,Lenovo Enjoy-952,AMD Ryzen 3,16,512,576.14,2024-06-19,Williamtown,Honduras,Bank Transfer
+285,Razer,Razer Girl-101,Intel i3,32,1024,2660.56,2022-06-28,Christinaport,Azerbaijan,Credit Card
+286,Microsoft,Microsoft Machine-842,AMD Ryzen 5,8,2048,1563.69,2023-04-24,Kevinchester,Montenegro,UPI
+287,Acer,Acer Explain-123,AMD Ryzen 3,8,1024,1465.65,2023-04-19,North Samantha,Martinique,Credit Card
+288,Razer,Razer Majority-320,Intel i9,4,2048,867.52,2024-01-16,Willisburgh,Somalia,Cash
+289,Lenovo,Lenovo Owner-487,AMD Ryzen 7,8,256,1651.95,2022-04-19,Gardnerchester,Samoa,Bank Transfer
+290,HP,HP Free-247,Intel i9,8,256,2487.53,2024-12-15,North Thomas,Mozambique,PayPal
+291,HP,HP Happen-763,Intel i3,32,1024,996.99,2022-05-16,Philipburgh,Switzerland,Debit Card
+292,Samsung,Samsung Enter-335,AMD Ryzen 7,4,256,1361.11,2022-10-10,West Christopher,Congo,Debit Card
+293,Lenovo,Lenovo Writer-416,Intel i7,4,2048,839.42,2023-06-22,Williamsburgh,Turkey,Debit Card
+294,Samsung,Samsung Little-102,Intel i3,32,2048,2138.94,2024-09-25,Alyssaborough,Northern Mariana Islands,UPI
+295,Lenovo,Lenovo Same-168,AMD Ryzen 7,16,512,450.75,2023-06-02,Tannerchester,Sri Lanka,UPI
+296,Lenovo,Lenovo Series-319,AMD Ryzen 7,32,256,855.55,2023-06-16,Johnchester,El Salvador,PayPal
+297,Acer,Acer Year-467,AMD Ryzen 5,4,2048,2577.81,2023-01-18,West Jonathan,Guyana,Cash
+298,Razer,Razer Yeah-870,AMD Ryzen 7,16,256,1871.01,2023-04-13,Port Charles,Azerbaijan,Bank Transfer
+299,MSI,MSI Worry-718,AMD Ryzen 5,4,512,1876.08,2022-07-12,Meyermouth,Mozambique,Debit Card
+300,Samsung,Samsung Technology-473,AMD Ryzen 5,8,1024,1788.27,2023-07-29,Catherineview,Ethiopia,UPI
+301,HP,HP Figure-690,Intel i3,32,2048,559.47,2023-01-10,North Dylanton,Jersey,PayPal
+302,Acer,Acer Adult-355,AMD Ryzen 7,8,1024,2237.27,2023-11-05,Davischester,Latvia,Bank Transfer
+303,Acer,Acer Senior-938,AMD Ryzen 5,8,512,1444.73,2023-10-02,West Beckyton,Latvia,UPI
+304,HP,HP Long-690,Intel i5,16,256,854.62,2022-08-31,East Donna,Tanzania,Bank Transfer
+305,Acer,Acer Star-364,AMD Ryzen 3,16,256,1157.06,2023-06-25,Martinezview,United Arab Emirates,PayPal
+306,MSI,MSI Section-833,AMD Ryzen 3,8,1024,2180.03,2023-05-23,South Matthewburgh,Honduras,Cash
+307,Apple,Apple Security-595,AMD Ryzen 5,4,1024,914.73,2023-11-07,Connorshire,Falkland Islands (Malvinas),UPI
+308,Asus,Asus Police-582,Intel i7,16,256,2634.92,2022-06-30,New Dominique,Myanmar,Bank Transfer
+309,Microsoft,Microsoft Investment-671,Intel i7,4,2048,911.18,2022-10-28,Carriemouth,Seychelles,Credit Card
+310,Samsung,Samsung School-356,Intel i7,4,2048,787.23,2023-03-10,Huffmantown,Kiribati,Debit Card
+311,Lenovo,Lenovo North-378,AMD Ryzen 7,4,1024,949.85,2024-12-20,South Melissafurt,Croatia,Debit Card
+312,Asus,Asus Individual-830,AMD Ryzen 7,32,1024,1154.98,2024-05-21,Ericmouth,Macedonia,Debit Card
+313,Samsung,Samsung Happen-196,Intel i3,8,512,1394.86,2022-06-10,Seanbury,Cape Verde,Debit Card
+314,Apple,Apple Card-879,AMD Ryzen 7,4,512,2923.26,2024-04-07,Brianside,Ukraine,UPI
+315,MSI,MSI Big-972,Intel i3,8,1024,1558.06,2024-09-05,New Rickyside,Samoa,UPI
+316,Acer,Acer Language-553,Intel i7,4,512,842.49,2024-06-13,Marystad,Cote d'Ivoire,Debit Card
+317,Apple,Apple Interest-135,Intel i5,8,1024,1553.36,2022-03-21,Benjaminfort,Belgium,PayPal
+318,Samsung,Samsung Seem-440,Intel i5,16,1024,1265.93,2022-04-14,North Nicholasburgh,Nigeria,Cash
+319,Acer,Acer Space-689,AMD Ryzen 5,32,1024,2706.29,2024-08-10,Walkerview,Saudi Arabia,UPI
+320,Acer,Acer Mind-395,Intel i7,8,256,1672.51,2022-05-14,Williamborough,Western Sahara,Debit Card
+321,MSI,MSI Class-944,Intel i9,16,2048,1942.83,2023-05-20,North Lisa,Antigua and Barbuda,PayPal
+322,Asus,Asus About-535,Intel i7,16,512,1702.27,2022-11-08,Gibbsport,Mexico,Cash
+323,Dell,Dell Far-610,Intel i7,16,256,991.21,2024-04-06,Port Melissafort,French Polynesia,UPI
+324,Acer,Acer Manager-246,Intel i3,8,512,1791.04,2023-01-05,Wilkersonhaven,United Kingdom,Cash
+325,Lenovo,Lenovo Easy-345,Intel i3,8,512,537.2,2023-01-06,New Teresahaven,Netherlands,UPI
+326,Asus,Asus Point-675,AMD Ryzen 7,32,256,854.11,2022-12-13,West Katrina,Northern Mariana Islands,Credit Card
+327,Samsung,Samsung Property-229,AMD Ryzen 3,16,2048,1031.4,2022-05-12,Jerrybury,Russian Federation,UPI
+328,Dell,Dell Step-195,AMD Ryzen 3,32,256,1351.12,2024-11-30,Parkerberg,Serbia,Debit Card
+329,Microsoft,Microsoft Everyone-890,Intel i7,16,256,627.67,2023-03-27,North Kenneth,Gabon,Bank Transfer
+330,Lenovo,Lenovo Bit-607,Intel i7,32,1024,2683.75,2024-04-08,Mcintyrestad,Turkmenistan,Bank Transfer
+331,Razer,Razer At-884,AMD Ryzen 7,8,2048,2128.94,2022-06-06,Davischester,Macedonia,Credit Card
+332,Asus,Asus Performance-817,Intel i5,8,512,2036.37,2023-03-14,Zacharymouth,Israel,Cash
+333,Microsoft,Microsoft Method-955,Intel i7,8,512,1572.14,2023-06-05,Meyermouth,Sri Lanka,Bank Transfer
+334,Asus,Asus Education-740,Intel i5,4,1024,1572.38,2023-10-05,Port Dale,Romania,Credit Card
+335,MSI,MSI Certain-988,AMD Ryzen 7,8,1024,1613.64,2025-01-31,East Valerie,Lithuania,Credit Card
+336,HP,HP Value-903,AMD Ryzen 3,4,256,850.85,2022-10-16,New Shawnton,Georgia,Cash
+337,Razer,Razer Push-872,AMD Ryzen 7,8,256,2074.82,2023-11-08,Lake Stacey,Belgium,Debit Card
+338,Acer,Acer Benefit-937,AMD Ryzen 7,8,256,710.13,2024-03-04,Port Derrick,Taiwan,Cash
+339,Lenovo,Lenovo Heart-258,Intel i7,4,512,1132.35,2022-06-04,South Christopherhaven,Madagascar,UPI
+340,Razer,Razer Thus-428,Intel i5,16,1024,1707.88,2023-01-18,Wangmouth,Papua New Guinea,UPI
+341,Lenovo,Lenovo Mrs-716,AMD Ryzen 7,8,256,2579.27,2023-03-28,Lake Benjamin,Liechtenstein,Cash
+342,Dell,Dell After-594,Intel i3,16,512,1927.27,2023-12-18,Martinfort,Dominican Republic,Credit Card
+343,Microsoft,Microsoft Ability-484,AMD Ryzen 3,4,256,1502.74,2022-11-30,South Ryanborough,Svalbard & Jan Mayen Islands,PayPal
+344,Dell,Dell Yeah-201,Intel i3,32,512,811.79,2023-02-18,Rebeccaborough,Bosnia and Herzegovina,Debit Card
+345,Lenovo,Lenovo Piece-137,Intel i5,32,2048,1414.27,2024-09-29,North Jonathan,Bosnia and Herzegovina,Bank Transfer
+346,HP,HP Line-808,Intel i5,16,512,931.77,2022-02-24,Port Timothymouth,Kazakhstan,Credit Card
+347,Samsung,Samsung Assume-439,AMD Ryzen 3,16,2048,1957.68,2022-04-05,New Joshua,United Kingdom,PayPal
+348,Samsung,Samsung Whether-966,AMD Ryzen 5,8,512,1464.86,2023-05-10,South Jeffrey,Gibraltar,UPI
+349,Acer,Acer Same-243,Intel i9,32,256,2632.02,2024-06-20,Farmerborough,Saint Martin,Credit Card
+350,Apple,Apple Question-875,AMD Ryzen 5,4,1024,1399.7,2023-07-20,Johnmouth,Liberia,Debit Card
+351,Dell,Dell Probably-250,AMD Ryzen 3,8,1024,2868.26,2023-03-24,Lake Mackenzie,Aruba,Bank Transfer
+352,Razer,Razer Suggest-778,AMD Ryzen 5,8,256,536.41,2024-11-02,West Ryan,Congo,PayPal
+353,Asus,Asus One-895,Intel i3,8,1024,2653.4,2024-02-14,Danielfurt,Bahamas,UPI
+354,Acer,Acer Wind-410,Intel i5,16,256,879.06,2024-04-05,West Amybury,Pakistan,PayPal
+355,Dell,Dell Democrat-105,Intel i5,8,256,1483.07,2022-10-01,North Nicolasport,Ireland,Cash
+356,Acer,Acer Morning-652,Intel i3,16,1024,883.33,2023-05-29,Ortizmouth,Turks and Caicos Islands,Credit Card
+357,Dell,Dell Or-745,Intel i5,16,512,446.04,2023-01-04,North Victoria,Jordan,Credit Card
+358,Dell,Dell Try-568,Intel i7,8,256,1816.95,2023-10-29,Matthewbury,Trinidad and Tobago,PayPal
+359,Apple,Apple Federal-364,AMD Ryzen 3,4,1024,864.11,2022-11-15,South Deborah,Czech Republic,Bank Transfer
+360,Samsung,Samsung Prove-792,Intel i7,8,2048,1726.12,2023-01-23,Whitefort,Seychelles,Credit Card
+361,Microsoft,Microsoft Gas-244,AMD Ryzen 7,4,2048,2288.21,2024-03-25,West Michelle,Egypt,Cash
+362,Acer,Acer Could-129,AMD Ryzen 3,32,2048,2306.2,2023-01-13,Raymondton,Saint Helena,Bank Transfer
+363,MSI,MSI Hear-747,AMD Ryzen 5,4,256,1442.13,2023-11-20,Port Kimberly,Sweden,Credit Card
+364,Razer,Razer Us-126,AMD Ryzen 7,8,2048,1207.5,2022-02-19,Shawnshire,Mongolia,Credit Card
+365,Microsoft,Microsoft Action-369,Intel i9,8,512,1282.79,2024-10-15,New Chadberg,Brazil,Bank Transfer
+366,Microsoft,Microsoft Form-411,Intel i7,16,256,593.69,2022-12-08,Williamstown,Turks and Caicos Islands,Cash
+367,Apple,Apple Character-150,Intel i7,16,512,1318.61,2025-01-24,Lake Julie,Heard Island and McDonald Islands,PayPal
+368,Lenovo,Lenovo Certain-375,Intel i9,16,2048,1798.51,2024-08-22,Lake Nicholasbury,Moldova,Debit Card
+369,Acer,Acer Matter-811,AMD Ryzen 3,8,1024,2476.27,2024-01-20,Jamesshire,Ecuador,Debit Card
+370,Apple,Apple Assume-368,Intel i3,8,512,2067.66,2022-11-24,Harringtonland,Chad,UPI
+371,Apple,Apple Business-225,Intel i3,32,512,1716.71,2024-12-26,Michaelmouth,Sierra Leone,Credit Card
+372,Microsoft,Microsoft Throughout-712,AMD Ryzen 5,32,2048,1809.97,2022-08-21,West Tylerfort,Solomon Islands,UPI
+373,Samsung,Samsung Whose-401,AMD Ryzen 3,16,256,2239.11,2023-01-29,South Jasonview,British Indian Ocean Territory (Chagos Archipelago),PayPal
+374,Apple,Apple Happen-407,Intel i5,16,2048,2659.67,2022-12-31,Christineland,Malta,PayPal
+375,Samsung,Samsung Well-804,Intel i3,32,256,2702.71,2024-09-11,East Jessica,Pitcairn Islands,UPI
+376,Dell,Dell Teach-296,Intel i7,8,2048,1336.34,2024-01-14,Lake Nancy,Burkina Faso,Bank Transfer
+377,Microsoft,Microsoft Hospital-972,AMD Ryzen 7,16,1024,2083.05,2024-10-03,Port Juliabury,China,Bank Transfer
+378,Asus,Asus Cost-244,Intel i7,8,2048,2755.89,2023-11-15,Ramirezland,Yemen,Cash
+379,MSI,MSI Key-729,Intel i9,16,2048,744.05,2022-10-04,North Robinburgh,Isle of Man,PayPal
+380,Razer,Razer Move-856,AMD Ryzen 5,16,256,2806.34,2022-05-05,Port Amandaton,Botswana,Cash
+381,Asus,Asus Southern-343,Intel i7,32,2048,1763.46,2022-03-11,Lake Jillborough,Saint Lucia,PayPal
+382,Razer,Razer Anything-202,Intel i9,16,1024,1377.71,2024-01-24,Kennethtown,Qatar,Debit Card
+383,Dell,Dell Support-932,AMD Ryzen 7,4,512,2296.87,2023-07-29,Brownmouth,Saint Helena,Cash
+384,HP,HP Suffer-643,Intel i5,32,512,2001.6,2022-11-06,New Paulville,Nigeria,Credit Card
+385,MSI,MSI Glass-419,AMD Ryzen 7,8,256,2350.45,2023-02-19,East Baileymouth,Libyan Arab Jamahiriya,UPI
+386,Dell,Dell Shoulder-740,Intel i7,4,1024,1348.19,2023-11-25,Timtown,Finland,Debit Card
+387,Lenovo,Lenovo Include-206,Intel i9,4,512,1608.93,2022-07-24,North Thomasstad,Gabon,Cash
+388,Dell,Dell Least-273,Intel i5,32,512,856.33,2022-09-21,Lake Williammouth,French Polynesia,Cash
+389,HP,HP Method-688,AMD Ryzen 5,16,512,1872.68,2022-04-08,Youngshire,Ireland,Bank Transfer
+390,Razer,Razer Something-677,Intel i3,16,2048,1774.68,2023-03-20,Chloemouth,Falkland Islands (Malvinas),PayPal
+391,Microsoft,Microsoft The-196,AMD Ryzen 3,8,512,2721.71,2023-01-01,Sharonport,United States of America,Debit Card
+392,MSI,MSI Identify-960,AMD Ryzen 5,8,2048,1235.85,2023-06-06,Joemouth,Zambia,Credit Card
+393,Dell,Dell Surface-489,AMD Ryzen 5,16,256,594.25,2024-08-28,Veronicahaven,Aruba,Credit Card
+394,Lenovo,Lenovo Still-725,AMD Ryzen 7,32,1024,1743.28,2024-02-07,New Katiestad,Korea,Cash
+395,Dell,Dell Nor-202,Intel i7,8,1024,2697.37,2024-05-20,Aaronview,Guyana,Bank Transfer
+396,Lenovo,Lenovo Measure-190,Intel i7,32,256,1367.2,2024-07-18,South Amandaview,Mauritania,Cash
+397,Razer,Razer Hundred-128,Intel i9,32,512,2413.43,2022-04-15,West Jeremyland,Sweden,Debit Card
+398,Dell,Dell Give-302,Intel i3,4,1024,2909.87,2023-05-04,Port William,Mongolia,Debit Card
+399,MSI,MSI Outside-434,Intel i7,32,2048,1988.7,2023-08-03,Mirandaside,Switzerland,Debit Card
+400,Microsoft,Microsoft Live-245,AMD Ryzen 3,8,1024,1581.64,2024-04-24,South Jenniferport,Iceland,PayPal
+401,Acer,Acer Apply-939,AMD Ryzen 5,16,1024,1329.04,2022-03-30,Vanessaport,Botswana,Credit Card
+402,Samsung,Samsung Hour-699,Intel i3,16,256,1603.94,2023-05-18,Millerton,Peru,Credit Card
+403,Microsoft,Microsoft Such-553,AMD Ryzen 7,32,256,1221.76,2022-12-25,Bautistabury,Cameroon,Bank Transfer
+404,Lenovo,Lenovo Force-239,AMD Ryzen 3,4,2048,2681.04,2022-08-20,Barkerbury,Rwanda,Bank Transfer
+405,HP,HP Lead-215,Intel i3,8,256,882.4,2023-03-07,West Matthew,United States of America,Cash
+406,Acer,Acer Voice-802,Intel i3,32,256,1241.13,2022-12-18,Allenview,Guadeloupe,Cash
+407,Acer,Acer Economy-409,AMD Ryzen 3,16,2048,2145.61,2022-06-10,Lake Travis,Chad,Bank Transfer
+408,Samsung,Samsung Property-325,AMD Ryzen 3,16,1024,759.21,2024-02-19,Juliechester,United States Minor Outlying Islands,PayPal
+409,Asus,Asus Base-910,AMD Ryzen 5,8,1024,1043.6,2024-06-26,North Tammyview,Haiti,Debit Card
+410,Microsoft,Microsoft Data-991,Intel i7,4,2048,790.15,2022-06-29,Thompsonside,Somalia,UPI
+411,Razer,Razer History-105,Intel i7,16,512,485.91,2022-06-20,Danielfort,Somalia,Credit Card
+412,Dell,Dell Prepare-262,AMD Ryzen 7,4,2048,2675.7,2024-03-11,Greerfurt,Georgia,UPI
+413,Apple,Apple Establish-157,Intel i3,16,512,1120.13,2024-05-03,Carolville,Israel,Cash
+414,Samsung,Samsung Later-842,AMD Ryzen 5,16,256,2964.53,2024-01-30,West Benjamin,Senegal,Bank Transfer
+415,Acer,Acer Contain-583,AMD Ryzen 5,16,2048,901.58,2023-04-25,Samanthaberg,Reunion,UPI
+416,Microsoft,Microsoft Indicate-797,Intel i5,4,256,1357.47,2023-04-09,Andersonchester,Vanuatu,PayPal
+417,HP,HP Leg-990,Intel i5,16,512,2847.32,2022-11-16,Aaronton,Saint Pierre and Miquelon,Debit Card
+418,HP,HP Prove-636,Intel i7,4,2048,756.43,2024-10-25,North Christopher,Senegal,Debit Card
+419,MSI,MSI Likely-666,AMD Ryzen 5,16,256,1211.4,2022-10-24,Amybury,Czech Republic,UPI
+420,Dell,Dell Perform-416,AMD Ryzen 7,16,2048,2143.38,2022-06-29,Teresaview,Netherlands Antilles,Cash
+421,Samsung,Samsung Single-450,Intel i5,4,256,1206.84,2023-10-24,East Christopherborough,Honduras,PayPal
+422,Lenovo,Lenovo Show-964,AMD Ryzen 7,32,2048,2869.97,2024-01-22,Sharonfort,Anguilla,Cash
+423,Acer,Acer Too-901,Intel i5,8,512,1154.82,2023-07-23,North Stephanieborough,Botswana,PayPal
+424,Asus,Asus Nature-557,Intel i7,8,512,1136.71,2024-11-03,Matthewsside,Sudan,Debit Card
+425,HP,HP Bring-941,Intel i3,16,256,1181.39,2022-06-12,Marshallfort,Isle of Man,Credit Card
+426,Lenovo,Lenovo Within-954,AMD Ryzen 5,4,1024,1814.21,2025-02-03,Caseyborough,Hong Kong,Debit Card
+427,HP,HP Move-707,AMD Ryzen 3,4,2048,2637.08,2023-05-18,North Lisaport,Mayotte,PayPal
+428,MSI,MSI Property-659,AMD Ryzen 5,16,256,1745.24,2022-03-28,North Phillip,British Virgin Islands,Credit Card
+429,Apple,Apple Talk-416,Intel i7,4,256,2675.66,2023-06-09,Parkermouth,Philippines,PayPal
+430,Asus,Asus Past-763,Intel i7,16,512,558.23,2023-09-30,East Matthewstad,Barbados,Cash
+431,Razer,Razer Cell-866,Intel i9,8,512,780.25,2024-11-10,Ortizshire,Barbados,PayPal
+432,Lenovo,Lenovo Money-880,AMD Ryzen 7,32,512,533.88,2022-03-19,Lake Maryberg,Iraq,UPI
+433,Apple,Apple List-552,AMD Ryzen 7,8,1024,445.83,2023-10-18,Port Dariuston,Gabon,UPI
+434,Apple,Apple Anyone-784,Intel i5,8,1024,2934.08,2022-03-27,Port Thomasview,Cape Verde,Bank Transfer
+435,Microsoft,Microsoft City-290,Intel i9,8,256,1580.79,2024-11-30,South Alexander,Iraq,UPI
+436,Dell,Dell Hair-621,AMD Ryzen 3,8,1024,680.27,2023-07-05,South Joelbury,Comoros,UPI
+437,Razer,Razer Difficult-576,AMD Ryzen 5,8,256,2714.97,2023-09-07,Lake Joseph,Puerto Rico,Credit Card
+438,Acer,Acer Among-160,Intel i9,8,2048,1986.83,2023-12-25,New Charles,Guadeloupe,Bank Transfer
+439,HP,HP Doctor-848,AMD Ryzen 5,16,2048,1170.95,2023-02-26,Rodgersfort,Liechtenstein,Debit Card
+440,Asus,Asus Focus-468,AMD Ryzen 3,4,2048,1162.45,2024-11-23,Crystalport,Thailand,PayPal
+441,Microsoft,Microsoft Alone-691,Intel i3,8,512,2961.71,2024-09-27,East Jonathan,Cook Islands,Debit Card
+442,Dell,Dell Training-907,AMD Ryzen 7,8,2048,2963.85,2022-11-28,South Donald,Lebanon,Cash
+443,Acer,Acer Still-419,Intel i7,4,256,1955.1,2022-06-18,Morrisonchester,Panama,Debit Card
+444,Lenovo,Lenovo First-476,Intel i3,16,256,505.03,2023-05-08,Port Elizabeth,Congo,UPI
+445,Asus,Asus Finally-877,AMD Ryzen 7,8,2048,1769.11,2023-09-12,South Curtis,Nepal,UPI
+446,HP,HP Tax-966,Intel i9,4,512,1085.14,2024-12-28,Jonesmouth,India,PayPal
+447,Apple,Apple Help-932,AMD Ryzen 3,16,1024,1619.86,2024-06-04,West Amandafort,Tuvalu,UPI
+448,Asus,Asus Together-643,Intel i9,16,2048,1618.3,2023-12-30,Lake Margaretbury,Norway,Bank Transfer
+449,HP,HP Around-291,Intel i3,4,256,2239.23,2024-11-23,North Albert,Swaziland,Cash
+450,Samsung,Samsung Baby-254,AMD Ryzen 5,16,256,1921.06,2022-12-26,Bradleyhaven,Nepal,Cash
+451,Lenovo,Lenovo Father-876,AMD Ryzen 3,8,2048,573.11,2023-08-19,North Samuel,Poland,UPI
+452,Razer,Razer Maintain-851,Intel i3,16,256,902.72,2024-05-23,Leeland,San Marino,PayPal
+453,Dell,Dell American-941,AMD Ryzen 5,32,2048,2698.81,2022-05-03,Walterstad,Nicaragua,PayPal
+454,Microsoft,Microsoft Skill-646,Intel i5,4,1024,2336.22,2022-08-24,Martinezbury,Vietnam,UPI
+455,MSI,MSI Entire-609,Intel i7,32,1024,1643.5,2022-05-27,West Nancy,Ghana,UPI
+456,Samsung,Samsung Nearly-364,AMD Ryzen 3,16,256,2197.34,2022-06-28,Crawfordville,Colombia,Bank Transfer
+457,Lenovo,Lenovo Human-313,AMD Ryzen 3,4,512,1040.24,2023-02-07,Lake Michael,Singapore,Debit Card
+458,HP,HP Which-162,AMD Ryzen 3,16,512,1843.18,2024-11-29,South Susanland,Jordan,Debit Card
+459,Microsoft,Microsoft Left-680,Intel i3,4,256,2725.57,2024-09-10,Hollymouth,Cape Verde,Cash
+460,Microsoft,Microsoft Conference-735,AMD Ryzen 3,8,512,1468.13,2022-03-02,Port Kathrynport,Slovenia,PayPal
+461,Samsung,Samsung Possible-551,Intel i7,16,2048,860.2,2024-01-13,Samuelchester,Japan,Credit Card
+462,MSI,MSI Interest-778,Intel i9,32,2048,614.68,2024-07-12,Aliciaburgh,Philippines,Debit Card
+463,Lenovo,Lenovo War-228,Intel i9,8,512,1518.08,2024-05-16,Port Daryl,Bangladesh,UPI
+464,MSI,MSI Bag-172,AMD Ryzen 3,8,1024,2022.22,2024-04-15,Bryantland,Lesotho,Bank Transfer
+465,MSI,MSI Affect-196,AMD Ryzen 7,8,2048,1286.34,2023-03-06,North Joshua,Madagascar,Cash
+466,Samsung,Samsung Early-439,Intel i9,16,256,846.03,2023-09-25,Arthurbury,Tokelau,UPI
+467,Asus,Asus Manager-271,Intel i5,4,2048,401.2,2024-01-03,Lake Susan,Mauritius,Credit Card
+468,MSI,MSI Need-702,Intel i5,8,2048,2819.64,2023-08-16,New Matthew,Lesotho,Bank Transfer
+469,Razer,Razer Structure-120,Intel i9,16,2048,440.17,2024-01-24,Gabrielfurt,Western Sahara,Cash
+470,Dell,Dell Tell-551,Intel i5,4,512,462.27,2024-12-15,Obrienland,Bermuda,Cash
+471,Acer,Acer Industry-579,Intel i5,4,2048,1126.59,2024-01-03,Lake Christopher,Latvia,Credit Card
+472,HP,HP Crime-991,AMD Ryzen 3,4,512,2594.15,2024-09-13,New Vanessa,Guyana,PayPal
+473,MSI,MSI Final-739,AMD Ryzen 7,16,1024,1438.17,2024-06-29,East Kyle,Malaysia,Cash
+474,Samsung,Samsung Will-970,AMD Ryzen 3,32,256,1891.86,2023-02-14,North Julian,Saint Lucia,Credit Card
+475,Lenovo,Lenovo Avoid-754,Intel i7,4,2048,1956.08,2023-01-23,Colemanbury,Moldova,PayPal
+476,Apple,Apple Own-217,AMD Ryzen 7,4,512,2308.31,2024-01-06,Cookborough,Saint Helena,Credit Card
+477,Asus,Asus Short-660,AMD Ryzen 7,4,2048,1190.76,2023-03-01,West Christopher,Cocos (Keeling) Islands,PayPal
+478,Acer,Acer Couple-231,Intel i9,8,2048,1395.22,2024-05-15,North Tylerberg,Kazakhstan,Bank Transfer
+479,Lenovo,Lenovo Laugh-209,AMD Ryzen 7,32,2048,773.59,2023-02-15,Shawland,Greece,Credit Card
+480,Samsung,Samsung Defense-560,Intel i5,16,256,1546.87,2023-01-13,Youngland,South Georgia and the South Sandwich Islands,UPI
+481,Apple,Apple Us-613,AMD Ryzen 3,32,2048,542.54,2024-05-01,East James,Brazil,UPI
+482,HP,HP Term-219,Intel i3,8,1024,1810.05,2024-04-17,Lake Monica,Brazil,Debit Card
+483,Apple,Apple Reflect-523,AMD Ryzen 5,16,256,1032.74,2022-10-26,Port Ashleymouth,Finland,Bank Transfer
+484,Acer,Acer Second-278,Intel i7,8,1024,777.09,2022-03-20,Melissastad,Gibraltar,UPI
+485,Microsoft,Microsoft Rather-290,AMD Ryzen 5,8,512,2389.85,2022-05-26,Davidtown,Saint Vincent and the Grenadines,Debit Card
+486,Apple,Apple Blood-617,AMD Ryzen 5,16,1024,2327.84,2024-03-01,Ashleymouth,Malta,PayPal
+487,Dell,Dell Capital-503,AMD Ryzen 3,16,2048,499.66,2022-09-01,South Danielhaven,Marshall Islands,Debit Card
+488,HP,HP Member-159,Intel i5,8,512,2615.07,2022-10-09,Mariachester,Seychelles,Bank Transfer
+489,Dell,Dell Republican-574,Intel i5,16,256,1618.96,2023-07-26,Hughesborough,Malawi,Debit Card
+490,Microsoft,Microsoft Sell-793,AMD Ryzen 3,16,2048,2360.53,2024-05-02,Jeremyland,Ghana,Debit Card
+491,HP,HP True-230,AMD Ryzen 7,16,1024,2448.31,2023-01-18,South Michaelland,Netherlands,Bank Transfer
+492,Samsung,Samsung Enjoy-107,AMD Ryzen 7,32,512,2702.32,2022-02-17,North Jasontown,Uruguay,Credit Card
+493,Dell,Dell Capital-508,AMD Ryzen 5,32,1024,840.66,2022-12-04,Port Mark,Bahamas,PayPal
+494,Asus,Asus Nor-254,AMD Ryzen 7,16,512,2675.94,2024-09-28,North Rachelton,Haiti,Debit Card
+495,Microsoft,Microsoft Source-154,Intel i9,4,2048,502.69,2022-09-06,Wangport,Iran,PayPal
+496,Lenovo,Lenovo Note-288,Intel i7,8,2048,1371.55,2024-01-04,Molinatown,United Arab Emirates,Debit Card
+497,Samsung,Samsung Direction-542,AMD Ryzen 7,4,1024,2539.6,2022-06-11,Briannabury,Turkmenistan,Cash
+498,Acer,Acer Economic-562,Intel i3,4,2048,2900.39,2023-05-25,New Michael,Bahamas,UPI
+499,HP,HP Down-475,Intel i7,8,2048,2852.19,2023-12-03,West Audreychester,Armenia,PayPal
+500,MSI,MSI Significant-102,AMD Ryzen 5,8,512,2208.9,2022-06-30,Barbaraburgh,South Africa,Debit Card
+501,Acer,Acer Determine-126,AMD Ryzen 3,32,2048,1626.46,2024-03-24,Brownchester,Russian Federation,Credit Card
+502,Lenovo,Lenovo Continue-798,Intel i9,8,512,1414.28,2022-06-04,Nicholsmouth,Mauritania,Bank Transfer
+503,Microsoft,Microsoft Huge-765,Intel i3,4,256,1174.76,2024-03-22,South Victor,Samoa,Credit Card
+504,HP,HP Suffer-341,Intel i7,16,1024,905.27,2024-05-03,Barnesbury,Mozambique,UPI
+505,Lenovo,Lenovo Life-110,Intel i9,8,2048,2296.32,2023-04-26,South Calvinport,Australia,Bank Transfer
+506,Asus,Asus Return-852,Intel i9,32,1024,1606.86,2023-08-09,Lesliemouth,Holy See (Vatican City State),Credit Card
+507,Asus,Asus Speech-686,Intel i5,8,512,2402.14,2022-10-30,Johnsonchester,Puerto Rico,Bank Transfer
+508,Razer,Razer Prevent-743,AMD Ryzen 5,4,2048,1774.65,2024-06-01,West Donnaville,French Guiana,Bank Transfer
+509,Microsoft,Microsoft Economic-633,AMD Ryzen 3,16,512,2860.32,2024-09-03,East Jeffreyland,Serbia,Cash
+510,Acer,Acer Skin-635,Intel i5,32,1024,910.57,2024-01-25,New Stevenburgh,Faroe Islands,Debit Card
+511,Dell,Dell Contain-116,Intel i9,4,512,1568.93,2023-02-23,Lake Cassieton,Falkland Islands (Malvinas),Cash
+512,Apple,Apple This-926,AMD Ryzen 7,8,1024,2728.38,2022-08-22,Wilsonmouth,Marshall Islands,PayPal
+513,Asus,Asus Not-571,AMD Ryzen 3,4,512,1545.86,2022-06-18,Poolefort,Antarctica (the territory South of 60 deg S),Credit Card
+514,Lenovo,Lenovo Bank-390,AMD Ryzen 5,32,1024,717.17,2022-10-06,Richardhaven,Togo,Bank Transfer
+515,MSI,MSI Can-977,Intel i3,16,512,1057.31,2022-08-10,Port Linda,Poland,UPI
+516,Dell,Dell Science-927,Intel i5,32,2048,700.86,2023-05-24,South Jonathanberg,Cayman Islands,Bank Transfer
+517,MSI,MSI Quite-670,AMD Ryzen 3,4,256,2424.5,2022-11-12,North Jesse,Nauru,Cash
+518,Dell,Dell Tough-228,Intel i5,4,1024,1520.83,2023-03-02,West Max,South Georgia and the South Sandwich Islands,PayPal
+519,MSI,MSI Plant-108,Intel i7,8,1024,1543.85,2023-05-08,New Darren,Tanzania,Bank Transfer
+520,Lenovo,Lenovo Attack-186,AMD Ryzen 7,4,512,1416.95,2022-09-12,Cortezmouth,Trinidad and Tobago,Debit Card
+521,HP,HP Four-656,Intel i9,32,2048,2418.24,2024-06-12,Ruizchester,Canada,PayPal
+522,MSI,MSI When-916,AMD Ryzen 7,32,2048,1841.01,2022-06-12,Sullivanburgh,Norfolk Island,Cash
+523,Asus,Asus Run-572,Intel i9,4,1024,1259.44,2022-09-03,Larrystad,Cocos (Keeling) Islands,Credit Card
+524,Razer,Razer Think-143,Intel i7,4,1024,2433.53,2022-02-11,North Danielle,Mali,PayPal
+525,MSI,MSI Within-769,AMD Ryzen 5,8,512,1866.25,2022-07-08,New Tammyside,Trinidad and Tobago,Credit Card
+526,Lenovo,Lenovo State-805,Intel i7,32,256,2557.04,2022-06-21,Kevinside,Palestinian Territory,UPI
+527,Lenovo,Lenovo Act-793,Intel i3,16,2048,2581.91,2024-12-16,South Heather,Portugal,Debit Card
+528,HP,HP Social-630,Intel i9,8,512,2110.38,2023-03-30,South Erin,Angola,Credit Card
+529,HP,HP Before-987,Intel i5,8,256,1529.12,2022-05-18,Mcphersonmouth,Jamaica,PayPal
+530,Samsung,Samsung Enough-324,Intel i3,16,256,513.56,2023-04-20,Melendezhaven,Taiwan,PayPal
+531,Microsoft,Microsoft Leave-634,Intel i5,4,512,2084.43,2024-03-25,Julietown,Nicaragua,Bank Transfer
+532,Apple,Apple Soldier-313,Intel i9,32,1024,862.77,2022-10-15,Port Josephside,Mexico,Credit Card
+533,Acer,Acer Father-254,Intel i5,16,2048,2459.61,2023-09-10,North Barbarastad,Turkey,Debit Card
+534,Asus,Asus Force-814,AMD Ryzen 7,16,256,2030.72,2024-10-11,Lake Mark,Egypt,PayPal
+535,Razer,Razer Base-632,Intel i5,4,512,1562.07,2023-08-30,Sanchezport,Barbados,Cash
+536,Razer,Razer Sure-833,AMD Ryzen 7,8,2048,2821.17,2023-05-02,East Sandra,Grenada,Debit Card
+537,Razer,Razer Occur-866,Intel i5,8,1024,1521.37,2023-06-14,New Judyburgh,Mexico,UPI
+538,MSI,MSI Trip-702,AMD Ryzen 3,32,1024,2493.58,2022-03-27,Moranburgh,Cambodia,Debit Card
+539,Razer,Razer Sell-319,Intel i3,8,256,1125.18,2023-06-19,Smithland,Samoa,PayPal
+540,Dell,Dell Onto-532,Intel i9,16,256,2148.61,2024-12-31,Olsonburgh,Tonga,Cash
+541,Samsung,Samsung Tonight-330,AMD Ryzen 3,16,512,2400.83,2024-07-29,Kevinberg,Brazil,Debit Card
+542,Samsung,Samsung Year-685,AMD Ryzen 7,4,2048,469.04,2024-08-22,New Jessicastad,Comoros,Debit Card
+543,Lenovo,Lenovo Building-465,AMD Ryzen 3,32,512,2283.66,2022-06-06,Johnview,Bhutan,Credit Card
+544,Asus,Asus Simple-144,AMD Ryzen 3,8,512,828.77,2024-03-25,Port Felicia,Italy,Debit Card
+545,MSI,MSI Raise-277,AMD Ryzen 5,16,512,1938.74,2023-11-24,Emilychester,Antigua and Barbuda,PayPal
+546,Microsoft,Microsoft Second-337,Intel i7,16,1024,613.65,2022-05-03,West Nicholastown,Spain,Bank Transfer
+547,Samsung,Samsung Week-733,Intel i7,32,2048,1835.62,2023-08-31,West Christinestad,Lesotho,Credit Card
+548,Microsoft,Microsoft North-264,Intel i5,8,1024,664.13,2023-01-17,Robertview,Saudi Arabia,Bank Transfer
+549,HP,HP Little-175,Intel i9,32,512,576.31,2022-02-28,Smithmouth,Timor-Leste,Debit Card
+550,HP,HP Some-280,AMD Ryzen 3,8,512,830.83,2022-02-20,Whitefort,Belgium,PayPal
+551,Apple,Apple Involve-240,AMD Ryzen 3,16,2048,1059.55,2024-11-09,Port Johnathanbury,Turks and Caicos Islands,Bank Transfer
+552,MSI,MSI Business-825,Intel i3,16,1024,783.49,2022-08-11,North Caitlin,Monaco,Credit Card
+553,Acer,Acer Trial-559,AMD Ryzen 3,4,256,947.93,2024-08-05,North Kevinborough,Liechtenstein,Debit Card
+554,Lenovo,Lenovo House-588,AMD Ryzen 5,8,512,2837.51,2023-12-15,East John,Guyana,Bank Transfer
+555,Lenovo,Lenovo Key-460,Intel i3,16,2048,2991.31,2023-05-06,Port Christophertown,Venezuela,UPI
+556,Microsoft,Microsoft Chance-197,Intel i9,4,1024,2331.86,2022-11-16,West Amyshire,Swaziland,Cash
+557,Acer,Acer Yet-382,AMD Ryzen 7,16,2048,2244.41,2023-03-18,Donnahaven,Cayman Islands,PayPal
+558,Razer,Razer Around-210,Intel i5,16,1024,988.61,2023-01-24,Maloneland,Faroe Islands,UPI
+559,Apple,Apple Enter-560,Intel i3,32,512,1091.15,2024-03-26,Susanhaven,Germany,Debit Card
+560,Acer,Acer Actually-903,Intel i5,32,1024,805.86,2023-12-07,Vasquezmouth,Cocos (Keeling) Islands,Credit Card
+561,Dell,Dell Project-716,Intel i9,32,1024,2534.23,2023-04-30,Wilkinsonbury,Timor-Leste,Bank Transfer
+562,Microsoft,Microsoft Full-730,Intel i7,16,2048,852.91,2024-07-23,North Johnbury,Saint Kitts and Nevis,Credit Card
+563,Acer,Acer Style-250,AMD Ryzen 5,16,1024,873.54,2022-03-03,East Melissa,Puerto Rico,Cash
+564,Dell,Dell That-540,AMD Ryzen 7,32,2048,2997.18,2024-06-30,New Elizabethshire,Afghanistan,Debit Card
+565,Asus,Asus Look-636,AMD Ryzen 7,8,2048,1567.62,2023-05-13,West Jessicaburgh,Sudan,UPI
+566,Microsoft,Microsoft Marriage-117,Intel i5,4,512,1932.56,2022-02-28,Taylorview,El Salvador,Debit Card
+567,Acer,Acer Nothing-151,Intel i9,8,2048,2688.95,2023-06-27,Port Andreaborough,Botswana,Credit Card
+568,HP,HP Less-427,Intel i3,16,2048,2593.21,2023-10-06,South Jenniferstad,Peru,Credit Card
+569,Samsung,Samsung Develop-829,Intel i5,4,1024,630.29,2023-12-15,West Brent,French Southern Territories,Debit Card
+570,Samsung,Samsung Dog-158,AMD Ryzen 3,4,1024,2308.15,2024-01-27,Loweshire,Luxembourg,Debit Card
+571,HP,HP Another-106,Intel i7,32,256,2760.2,2022-10-20,Pacemouth,Uzbekistan,UPI
+572,Asus,Asus Outside-757,Intel i9,8,256,2111.33,2024-06-10,Lake Jesse,Libyan Arab Jamahiriya,Credit Card
+573,Dell,Dell Sport-221,AMD Ryzen 5,4,2048,1025.5,2022-06-26,Macdonaldview,Western Sahara,Cash
+574,Razer,Razer That-841,Intel i7,32,512,956.86,2022-02-15,East Danaport,Antigua and Barbuda,Credit Card
+575,HP,HP Involve-721,AMD Ryzen 7,8,1024,901.77,2023-08-09,South Yolandachester,Bosnia and Herzegovina,Cash
+576,MSI,MSI Many-585,Intel i3,16,512,2247.98,2024-11-26,Joseside,Albania,Credit Card
+577,MSI,MSI Follow-220,AMD Ryzen 7,16,256,2818.36,2022-07-05,Dunlapton,Aruba,PayPal
+578,Microsoft,Microsoft Beyond-797,AMD Ryzen 5,16,1024,1803.61,2023-08-24,Danielfurt,Zimbabwe,Debit Card
+579,Asus,Asus Skin-355,AMD Ryzen 7,8,1024,2347.87,2024-11-27,Kellyland,Finland,PayPal
+580,HP,HP Her-937,AMD Ryzen 3,8,2048,2326.05,2023-10-16,Masseyview,Cuba,Credit Card
+581,Samsung,Samsung Up-468,AMD Ryzen 5,4,512,2071.47,2023-05-01,Port Laurenstad,Rwanda,Credit Card
+582,Razer,Razer Offer-119,Intel i7,4,1024,885.07,2024-10-29,Sarahstad,Jamaica,Credit Card
+583,HP,HP Single-760,AMD Ryzen 7,32,256,2722.51,2023-04-14,West Gregoryview,Faroe Islands,Credit Card
+584,HP,HP And-568,AMD Ryzen 3,4,1024,632.77,2022-09-06,North Diana,Sri Lanka,Cash
+585,Razer,Razer Station-965,AMD Ryzen 3,4,2048,1976.14,2022-03-02,Morgantown,Lebanon,Cash
+586,MSI,MSI Anyone-202,AMD Ryzen 7,4,2048,2451.56,2024-10-14,Myersland,Marshall Islands,Cash
+587,Samsung,Samsung Green-428,Intel i5,8,2048,2740.02,2024-11-22,New Karenberg,Romania,Credit Card
+588,Microsoft,Microsoft Fine-285,Intel i7,8,256,1387.29,2024-04-04,Aliside,United States Minor Outlying Islands,Bank Transfer
+589,Acer,Acer Book-799,Intel i7,4,2048,2923.17,2024-10-30,Danielton,Somalia,Debit Card
+590,Microsoft,Microsoft Surface-866,Intel i7,8,1024,2657.33,2022-05-26,East Carriebury,Nepal,Credit Card
+591,Asus,Asus Study-927,AMD Ryzen 3,16,256,619.21,2022-03-09,Lake Rebeccaville,United States of America,Bank Transfer
+592,Lenovo,Lenovo Site-321,AMD Ryzen 3,8,1024,1095.75,2023-09-10,Jamesberg,Bahamas,Credit Card
+593,Samsung,Samsung Nation-489,Intel i9,8,256,2956.85,2022-02-15,New Elizabeth,Grenada,PayPal
+594,Samsung,Samsung Book-433,Intel i5,16,2048,1011.38,2022-05-28,North James,Bouvet Island (Bouvetoya),UPI
+595,Acer,Acer Order-838,AMD Ryzen 5,8,1024,498.33,2024-12-18,East Michelle,Georgia,PayPal
+596,Apple,Apple Threat-360,AMD Ryzen 5,16,1024,1792.74,2022-12-31,Thompsonview,Mauritius,Debit Card
+597,MSI,MSI Plant-168,AMD Ryzen 5,16,256,1643.89,2024-11-13,Port Danaport,Cameroon,Bank Transfer
+598,HP,HP Child-718,AMD Ryzen 3,32,1024,2221.09,2023-05-15,Tiffanyberg,Antarctica (the territory South of 60 deg S),PayPal
+599,Apple,Apple Real-331,Intel i5,16,1024,2391.84,2023-11-01,Watkinsborough,Northern Mariana Islands,Credit Card
+600,Apple,Apple Between-352,AMD Ryzen 7,32,1024,2534.26,2023-02-23,Carriefurt,Australia,Debit Card
+601,Apple,Apple Any-739,Intel i3,4,256,782.44,2022-12-22,Michellestad,Equatorial Guinea,Cash
+602,Acer,Acer Relate-628,Intel i9,32,512,505.15,2023-11-09,Karenfort,Mongolia,Debit Card
+603,Lenovo,Lenovo Social-816,Intel i9,16,2048,2891.17,2024-05-13,Kruegermouth,Palau,Credit Card
+604,MSI,MSI Last-644,AMD Ryzen 7,8,1024,1413.22,2024-12-30,Lake Shelley,Guinea,UPI
+605,Asus,Asus Animal-336,Intel i9,32,1024,1817.68,2023-01-15,Valerieton,Japan,Cash
+606,Apple,Apple Try-206,Intel i3,4,256,2329.98,2023-07-31,Rebeccatown,Maldives,UPI
+607,Samsung,Samsung Window-617,Intel i5,4,1024,449.9,2022-11-26,Jessicahaven,San Marino,UPI
+608,HP,HP Nation-562,Intel i9,8,1024,2936.96,2024-02-18,Cooperberg,Niger,Debit Card
+609,Lenovo,Lenovo Upon-738,AMD Ryzen 7,4,512,1391.46,2024-04-05,Martinezberg,Nigeria,Cash
+610,Acer,Acer Everything-687,AMD Ryzen 7,8,256,2290.99,2023-01-23,Peterberg,Estonia,UPI
+611,Apple,Apple Authority-227,Intel i5,4,1024,1025.44,2023-12-08,North Tracyshire,Turkey,UPI
+612,Apple,Apple Smile-846,Intel i5,4,1024,1043.51,2024-03-31,Castilloside,Gabon,Cash
+613,HP,HP Red-369,Intel i9,4,1024,2965.07,2023-03-24,Tiffanyview,Angola,Debit Card
+614,Dell,Dell To-106,AMD Ryzen 3,16,2048,1753.89,2022-07-18,West Michael,Monaco,UPI
+615,MSI,MSI Build-888,AMD Ryzen 7,32,512,543.98,2023-10-22,Kennedyview,Aruba,Debit Card
+616,HP,HP Green-283,AMD Ryzen 7,4,1024,824.3,2024-09-12,Hannahville,Mexico,Bank Transfer
+617,Asus,Asus Share-125,Intel i3,4,1024,871.88,2022-04-07,Emilyborough,Finland,Debit Card
+618,MSI,MSI Mr-555,AMD Ryzen 3,8,256,2990.93,2022-06-07,West Toddville,French Guiana,Cash
+619,Dell,Dell Use-112,AMD Ryzen 3,16,256,532.81,2022-06-03,New Nicholas,Holy See (Vatican City State),Bank Transfer
+620,Microsoft,Microsoft Training-950,AMD Ryzen 3,4,2048,2917.66,2023-07-07,Griffithhaven,Monaco,Cash
+621,Asus,Asus Project-448,AMD Ryzen 7,8,2048,2877.57,2024-10-02,Tannerhaven,French Guiana,Bank Transfer
+622,MSI,MSI Reality-665,Intel i5,8,512,821.45,2023-03-16,Pattersonport,Colombia,UPI
+623,Dell,Dell Collection-957,AMD Ryzen 5,8,1024,1032.44,2022-11-24,Nashmouth,United States Virgin Islands,PayPal
+624,Apple,Apple Interview-526,Intel i5,8,1024,1562.9,2022-06-27,New Michaelafort,Mexico,PayPal
+625,MSI,MSI Address-725,Intel i3,16,1024,1996.07,2024-09-16,Timothystad,Andorra,Bank Transfer
+626,HP,HP Bring-331,Intel i3,16,2048,826.37,2022-05-16,Oconnorfort,Djibouti,Debit Card
+627,Microsoft,Microsoft Wall-130,Intel i9,8,2048,2097.31,2024-12-26,Joshuashire,Turks and Caicos Islands,PayPal
+628,Asus,Asus Big-361,AMD Ryzen 5,16,256,1750.28,2023-08-27,Vincentchester,Togo,Debit Card
+629,Apple,Apple Side-492,Intel i7,8,2048,1310.27,2022-04-06,East Laurenview,Ethiopia,Cash
+630,MSI,MSI Data-606,Intel i3,32,256,991.37,2024-10-13,Charlesburgh,Bosnia and Herzegovina,Credit Card
+631,HP,HP Avoid-664,AMD Ryzen 3,8,256,619.2,2022-04-03,South Taylorstad,Congo,Cash
+632,MSI,MSI Service-699,Intel i7,4,1024,1950.97,2022-03-30,East Kyle,American Samoa,UPI
+633,HP,HP Expert-492,Intel i5,4,2048,2477.93,2023-09-03,West Eugene,Bahrain,PayPal
+634,Lenovo,Lenovo Ago-525,Intel i3,8,512,2585.2,2023-12-05,Port Frederickmouth,Samoa,UPI
+635,Samsung,Samsung Consider-250,Intel i3,8,256,2003.75,2024-03-24,South Hayleytown,Panama,Cash
+636,Asus,Asus Body-935,Intel i3,32,1024,2512.96,2022-03-27,Harrisonside,Botswana,Debit Card
+637,Microsoft,Microsoft Member-750,Intel i5,4,512,568.79,2022-05-21,South Steven,Liechtenstein,UPI
+638,Samsung,Samsung Rock-428,AMD Ryzen 5,8,1024,415.65,2023-06-28,Millsstad,French Southern Territories,Debit Card
+639,HP,HP Quickly-161,Intel i5,4,256,2270.94,2024-08-21,Rachelshire,Chile,UPI
+640,Acer,Acer Cover-202,AMD Ryzen 7,4,256,648.34,2023-01-13,New Darlene,Nepal,UPI
+641,Lenovo,Lenovo Travel-260,AMD Ryzen 7,32,1024,775.64,2022-11-18,West Melissaland,Guatemala,Credit Card
+642,Samsung,Samsung Everyone-971,Intel i9,8,512,964.29,2023-05-12,Brentburgh,Congo,Cash
+643,MSI,MSI Base-955,Intel i3,32,2048,701.49,2025-01-19,New Sandra,El Salvador,Cash
+644,MSI,MSI Girl-766,AMD Ryzen 5,16,1024,1262.96,2022-12-15,East Robert,Finland,Bank Transfer
+645,Microsoft,Microsoft Speech-148,AMD Ryzen 7,32,2048,2524.84,2022-07-09,Port Raymond,Saint Helena,Debit Card
+646,Acer,Acer Try-645,AMD Ryzen 3,8,256,1057.32,2023-07-29,West Elizabethstad,Germany,UPI
+647,MSI,MSI Care-222,Intel i7,4,512,1700.98,2024-04-05,North Jamesborough,Ireland,Debit Card
+648,MSI,MSI Allow-263,Intel i9,4,2048,1609.1,2024-07-28,North Amanda,Saint Kitts and Nevis,Cash
+649,Samsung,Samsung Probably-840,Intel i9,8,512,1796.65,2025-01-28,Garciaview,Faroe Islands,UPI
+650,Asus,Asus Appear-777,AMD Ryzen 5,32,2048,1202.12,2022-12-17,New Arianabury,Bolivia,Cash
+651,Asus,Asus Amount-822,AMD Ryzen 7,32,1024,1596.26,2023-05-07,East Paul,New Zealand,Credit Card
+652,Acer,Acer Thousand-169,AMD Ryzen 3,8,1024,2454.29,2022-08-27,East Laurie,Holy See (Vatican City State),UPI
+653,Samsung,Samsung Personal-306,Intel i9,16,1024,1437.5,2024-05-27,Christinaview,Mayotte,Bank Transfer
+654,Asus,Asus Major-481,Intel i7,4,1024,2684.72,2023-09-19,West Jeffrey,Cuba,Debit Card
+655,Apple,Apple Order-860,Intel i7,8,2048,518.01,2022-07-04,Port Nichole,Lebanon,Cash
+656,Samsung,Samsung Relationship-208,AMD Ryzen 5,4,512,1001.68,2024-07-23,East Sean,South Africa,UPI
+657,Apple,Apple Change-618,AMD Ryzen 7,16,512,2151.05,2023-03-24,Sethtown,Slovenia,Cash
+658,Lenovo,Lenovo Within-487,Intel i5,8,256,2556.64,2024-07-26,Orozcoside,Mayotte,Debit Card
+659,Acer,Acer Miss-595,AMD Ryzen 3,8,256,2814.2,2022-07-07,East Brandonmouth,Western Sahara,PayPal
+660,Asus,Asus Society-240,AMD Ryzen 5,32,1024,575.22,2024-03-10,New Scott,Saint Pierre and Miquelon,Cash
+661,Asus,Asus Far-223,Intel i5,16,1024,1239.99,2024-09-28,Whitehaven,Aruba,Debit Card
+662,MSI,MSI Unit-238,Intel i9,32,2048,672.5,2024-10-02,East Trevorburgh,Moldova,Cash
+663,Asus,Asus Report-879,Intel i9,16,256,1025.9,2023-09-19,West Brandi,Sudan,Cash
+664,HP,HP Central-823,AMD Ryzen 3,32,512,544.69,2022-11-11,North Matthew,Peru,Debit Card
+665,Lenovo,Lenovo Stand-515,AMD Ryzen 3,32,256,2112.04,2024-01-19,East Williamchester,Czech Republic,Credit Card
+666,Apple,Apple Significant-993,AMD Ryzen 7,4,256,1729.39,2024-11-10,Freemanview,United States Minor Outlying Islands,Bank Transfer
+667,MSI,MSI If-354,Intel i7,4,512,1548.27,2024-11-11,Jasminefurt,Saint Martin,UPI
+668,Dell,Dell Scene-222,Intel i9,4,1024,1766.53,2022-04-15,Dennisland,Uganda,Cash
+669,Acer,Acer Program-705,Intel i5,32,256,2744.4,2024-01-22,Thomasburgh,Haiti,Debit Card
+670,Asus,Asus Idea-912,Intel i5,4,256,2539.31,2022-06-27,Richardsonchester,Montenegro,Cash
+671,Razer,Razer Yes-948,Intel i9,32,1024,1127.79,2022-09-21,Andreatown,Bhutan,Bank Transfer
+672,Microsoft,Microsoft Past-203,Intel i9,16,1024,2222.85,2023-03-02,Shawberg,Syrian Arab Republic,Credit Card
+673,Razer,Razer Cover-521,AMD Ryzen 5,16,256,2160.44,2022-09-11,Jessicaton,Bosnia and Herzegovina,PayPal
+674,Apple,Apple Public-658,Intel i5,32,256,2299.42,2022-07-19,Vincentland,Saint Helena,Cash
+675,Acer,Acer Trial-550,AMD Ryzen 5,4,512,1265.97,2022-03-03,South Thomaschester,Morocco,Bank Transfer
+676,Razer,Razer Network-503,AMD Ryzen 5,32,256,1735.14,2023-07-21,Victorview,Lithuania,Credit Card
+677,Samsung,Samsung While-203,AMD Ryzen 5,16,512,1965.33,2022-04-06,Samuelville,Israel,Bank Transfer
+678,MSI,MSI Than-250,Intel i3,32,512,2649.25,2022-04-25,Thompsonmouth,South Georgia and the South Sandwich Islands,Credit Card
+679,Microsoft,Microsoft Quality-912,AMD Ryzen 5,4,1024,1940.68,2023-02-16,Lake Brucemouth,Zambia,Credit Card
+680,Acer,Acer Already-912,Intel i9,4,2048,2323.67,2024-12-25,East Jessica,Guam,PayPal
+681,MSI,MSI Like-430,Intel i7,8,512,1988.69,2022-02-15,Williamshire,Lao People's Democratic Republic,Bank Transfer
+682,Apple,Apple Interest-965,AMD Ryzen 3,32,512,1052.21,2023-04-23,Johnsonview,Senegal,UPI
+683,Samsung,Samsung Prevent-960,Intel i5,16,256,2889.86,2023-03-16,Janeshire,Netherlands,UPI
+684,MSI,MSI Government-869,Intel i7,8,256,1353.64,2023-07-04,East Davidport,Nicaragua,PayPal
+685,Lenovo,Lenovo Maintain-615,Intel i3,8,256,788.65,2024-02-03,Port Gregory,Puerto Rico,PayPal
+686,Lenovo,Lenovo Product-966,AMD Ryzen 3,4,256,2989.82,2022-07-01,West Tonya,Fiji,Debit Card
+687,MSI,MSI Look-895,Intel i5,4,2048,2947.96,2022-12-19,New Robintown,Botswana,Debit Card
+688,Asus,Asus Today-779,Intel i5,4,256,1439.22,2023-07-09,Powersshire,Cayman Islands,Debit Card
+689,Samsung,Samsung Summer-390,Intel i3,32,512,470.43,2022-12-07,New Ryan,Brazil,Cash
+690,MSI,MSI Right-109,AMD Ryzen 7,32,512,1547.3,2025-01-30,East Samantha,Russian Federation,UPI
+691,Asus,Asus None-395,AMD Ryzen 5,4,256,2260.5,2024-12-20,Lake Jeremy,American Samoa,Credit Card
+692,Microsoft,Microsoft Civil-923,Intel i5,32,512,2282.49,2023-05-15,Lake Benjamin,Cuba,PayPal
+693,MSI,MSI Item-120,Intel i5,16,512,1558.82,2022-12-09,Austinview,Guam,UPI
+694,Dell,Dell Move-492,Intel i7,4,2048,2482.23,2022-11-16,Doylechester,Somalia,Debit Card
+695,Lenovo,Lenovo Sport-524,Intel i7,4,2048,1871.36,2022-10-06,South Kathryn,Cayman Islands,PayPal
+696,MSI,MSI House-816,AMD Ryzen 5,32,1024,1695.02,2024-12-20,Maryberg,Lesotho,UPI
+697,Microsoft,Microsoft Note-786,AMD Ryzen 7,32,256,1680.6,2024-11-27,Thorntonside,Svalbard & Jan Mayen Islands,Bank Transfer
+698,Acer,Acer Year-749,Intel i3,8,256,838.66,2022-04-07,Danielstad,Lebanon,Credit Card
+699,HP,HP Paper-104,AMD Ryzen 5,8,1024,1662.51,2023-08-12,Rodriguezville,Myanmar,UPI
+700,Asus,Asus Claim-334,Intel i3,16,256,1809.94,2022-06-16,Johnsonview,Sierra Leone,Bank Transfer
+701,Razer,Razer Material-592,Intel i7,32,1024,778.51,2023-05-23,Whiteland,Sao Tome and Principe,Bank Transfer
+702,Acer,Acer Feeling-735,AMD Ryzen 7,4,256,1430.32,2024-07-31,Brownchester,Cambodia,Bank Transfer
+703,Apple,Apple Skin-372,AMD Ryzen 3,4,256,1302.14,2023-07-16,Chamberschester,Brazil,UPI
+704,Samsung,Samsung Become-181,Intel i3,32,512,686.24,2022-11-30,New Mary,Spain,Cash
+705,Microsoft,Microsoft Light-395,AMD Ryzen 7,16,1024,2417.23,2022-05-12,Jenningsmouth,Chile,Bank Transfer
+706,Asus,Asus Ever-718,Intel i9,4,1024,2005.21,2024-07-21,Port Brandi,Uruguay,Cash
+707,Dell,Dell Whom-545,AMD Ryzen 7,4,1024,600.88,2023-11-24,Port Catherine,Malaysia,Bank Transfer
+708,Razer,Razer Artist-592,Intel i7,4,512,1756.85,2024-04-18,Shieldshaven,Cook Islands,PayPal
+709,Acer,Acer Fact-168,AMD Ryzen 5,32,2048,1774.93,2023-09-11,Reginaldshire,British Indian Ocean Territory (Chagos Archipelago),Debit Card
+710,Asus,Asus Beautiful-535,Intel i9,16,2048,2562.11,2025-01-04,Timothyville,Armenia,Credit Card
+711,Razer,Razer Rest-456,Intel i5,32,1024,553.26,2023-01-31,New Ronaldborough,Pitcairn Islands,Credit Card
+712,Samsung,Samsung Huge-278,AMD Ryzen 7,8,2048,2715.99,2022-09-15,Patelborough,Comoros,PayPal
+713,Microsoft,Microsoft Newspaper-706,AMD Ryzen 5,4,512,1091.04,2023-05-27,Farleyfurt,Panama,PayPal
+714,Apple,Apple Central-812,Intel i3,4,2048,1201.23,2023-05-23,Roblesstad,Croatia,Credit Card
+715,Apple,Apple Difficult-958,Intel i7,16,2048,2820.81,2023-05-30,North Ericamouth,Belize,PayPal
+716,Acer,Acer Sound-390,AMD Ryzen 5,32,512,2632.76,2022-06-22,Wardchester,Finland,Debit Card
+717,Dell,Dell Note-524,Intel i9,8,1024,1895.99,2024-11-02,Lanebury,Falkland Islands (Malvinas),Credit Card
+718,Razer,Razer Miss-623,AMD Ryzen 5,16,2048,2791.28,2022-06-03,North Kurt,Qatar,Bank Transfer
+719,Razer,Razer Truth-400,Intel i3,16,2048,1675.61,2024-03-09,Estradaton,Iran,Bank Transfer
+720,Razer,Razer Party-168,AMD Ryzen 3,32,1024,2764.79,2023-07-17,Thomasport,American Samoa,Bank Transfer
+721,Samsung,Samsung Level-635,AMD Ryzen 7,16,1024,1812.66,2025-02-03,Adamview,South Georgia and the South Sandwich Islands,UPI
+722,Lenovo,Lenovo Example-998,AMD Ryzen 3,32,1024,1522.56,2024-10-12,Deniseside,Guatemala,Debit Card
+723,Lenovo,Lenovo Push-243,AMD Ryzen 7,16,256,880.15,2024-11-26,Port Patrick,Romania,UPI
+724,Apple,Apple None-409,Intel i5,8,512,629.56,2023-11-20,Port Tiffany,Libyan Arab Jamahiriya,Credit Card
+725,Asus,Asus Me-673,Intel i5,16,512,663.53,2023-05-10,Castilloview,Tokelau,UPI
+726,Razer,Razer Book-129,Intel i5,4,256,2589.0,2024-02-23,Lindamouth,Benin,Cash
+727,Dell,Dell Situation-882,AMD Ryzen 3,8,1024,2000.74,2024-02-21,Anthonymouth,Taiwan,Credit Card
+728,Razer,Razer Stuff-234,Intel i9,4,512,1525.1,2024-06-29,Port Laurenside,Italy,PayPal
+729,Razer,Razer Purpose-539,Intel i5,4,2048,2980.66,2024-01-17,Port Katelyn,Belarus,PayPal
+730,Samsung,Samsung Audience-783,AMD Ryzen 5,16,1024,2809.09,2022-10-18,South Christopher,Botswana,Cash
+731,Razer,Razer Skin-757,Intel i3,4,2048,1713.72,2023-01-27,Amyside,Tanzania,Credit Card
+732,Dell,Dell Action-559,Intel i5,16,2048,2180.81,2024-05-06,Port Brandonshire,Somalia,UPI
+733,Asus,Asus Simply-967,AMD Ryzen 3,32,512,2261.39,2024-04-20,West John,Lithuania,Debit Card
+734,Razer,Razer Newspaper-992,AMD Ryzen 7,16,2048,1529.66,2024-06-06,Brianaland,Monaco,PayPal
+735,Microsoft,Microsoft Evidence-514,Intel i3,8,1024,1616.53,2022-07-28,Marissamouth,Micronesia,UPI
+736,HP,HP Lawyer-232,AMD Ryzen 3,8,1024,897.2,2022-09-15,West Jeanview,Niue,Cash
+737,Apple,Apple Born-312,AMD Ryzen 7,8,256,1141.71,2022-11-29,South John,Wallis and Futuna,Cash
+738,Microsoft,Microsoft How-413,Intel i9,16,2048,1453.45,2024-04-05,Mcdonaldmouth,Gibraltar,PayPal
+739,Microsoft,Microsoft Well-951,Intel i5,8,1024,668.22,2023-08-20,Woodsfurt,Croatia,UPI
+740,Razer,Razer Particular-499,Intel i3,8,256,2965.23,2024-04-11,Kimberlyberg,Moldova,Bank Transfer
+741,MSI,MSI Age-287,Intel i5,32,2048,2490.13,2023-09-24,East Tracy,Chad,UPI
+742,Razer,Razer Real-662,Intel i5,16,2048,1646.05,2022-03-21,Williamsstad,Korea,Credit Card
+743,Asus,Asus Act-427,Intel i5,8,256,402.33,2024-01-09,North Kelsey,Mongolia,Credit Card
+744,Acer,Acer Indeed-195,AMD Ryzen 3,8,1024,2607.87,2023-12-19,Cantuberg,Romania,PayPal
+745,Razer,Razer Serve-806,Intel i7,8,2048,1137.21,2023-03-12,Mcknighttown,Chile,Bank Transfer
+746,MSI,MSI Off-126,AMD Ryzen 3,32,1024,1683.51,2023-12-10,East Justin,United States Virgin Islands,UPI
+747,HP,HP And-119,Intel i3,4,512,904.81,2023-07-11,North Codychester,Slovakia (Slovak Republic),Cash
+748,Razer,Razer On-763,Intel i3,4,512,1964.15,2024-04-16,Port Eric,Tajikistan,Credit Card
+749,Lenovo,Lenovo Drug-663,Intel i7,8,512,674.22,2023-05-10,Port Joshuashire,Romania,Debit Card
+750,Asus,Asus Buy-812,Intel i5,16,2048,1551.11,2024-02-21,South Donnamouth,Iraq,Bank Transfer
+751,Apple,Apple Should-623,AMD Ryzen 5,8,256,2390.66,2023-12-18,Kennethberg,Antarctica (the territory South of 60 deg S),PayPal
+752,Dell,Dell Necessary-896,Intel i5,32,1024,2715.27,2022-10-20,Shannonchester,Sao Tome and Principe,Bank Transfer
+753,Samsung,Samsung Heart-573,AMD Ryzen 3,16,2048,2450.06,2024-07-09,West Cherylbury,Congo,Bank Transfer
+754,Lenovo,Lenovo Decade-851,Intel i3,32,512,1157.96,2024-05-13,West Nicholasshire,Heard Island and McDonald Islands,PayPal
+755,Asus,Asus Remember-560,Intel i3,4,256,1345.23,2024-10-31,East Kevinborough,British Virgin Islands,PayPal
+756,Microsoft,Microsoft Security-359,AMD Ryzen 5,8,1024,2150.27,2022-08-14,Lisaborough,Kenya,Bank Transfer
+757,Microsoft,Microsoft Condition-470,Intel i5,4,512,2809.04,2024-10-10,North Darrellburgh,Serbia,Bank Transfer
+758,HP,HP Husband-954,Intel i3,16,512,1200.48,2024-06-06,Batesview,Kenya,Bank Transfer
+759,Acer,Acer Two-470,Intel i7,8,2048,1826.47,2022-04-21,Gillborough,Senegal,Credit Card
+760,Asus,Asus Risk-600,AMD Ryzen 3,16,2048,1600.4,2023-06-23,Port John,Sri Lanka,PayPal
+761,MSI,MSI Can-535,Intel i7,8,1024,473.91,2022-06-05,Mcneilstad,Bahrain,Cash
+762,Dell,Dell Able-410,Intel i9,8,2048,2755.18,2023-02-06,Laurieborough,South Africa,PayPal
+763,Apple,Apple Human-766,Intel i3,4,512,581.25,2022-05-12,Ellischester,Mexico,UPI
+764,Microsoft,Microsoft So-699,AMD Ryzen 5,32,2048,1285.86,2022-10-13,Lake Jeffreyville,Dominican Republic,Credit Card
+765,MSI,MSI It-727,AMD Ryzen 3,16,1024,546.1,2024-12-16,Benitezborough,Trinidad and Tobago,Credit Card
+766,Microsoft,Microsoft Own-117,AMD Ryzen 3,8,2048,676.65,2023-05-31,Spencerport,Japan,Cash
+767,Microsoft,Microsoft Example-414,AMD Ryzen 3,16,1024,1103.49,2023-05-29,New Kimberlychester,Liberia,UPI
+768,Asus,Asus Adult-977,Intel i9,32,1024,2279.59,2024-09-18,New Autumn,Togo,Bank Transfer
+769,Asus,Asus Sell-933,Intel i9,16,1024,1415.4,2022-04-06,South Hailey,Sri Lanka,UPI
+770,Apple,Apple Parent-516,Intel i7,8,1024,2906.16,2023-04-30,South Kurt,Macedonia,Bank Transfer
+771,Dell,Dell Visit-498,Intel i5,16,2048,2122.47,2023-07-25,Matthewfurt,Kazakhstan,Credit Card
+772,Asus,Asus Experience-236,Intel i3,32,1024,1279.53,2022-06-30,West Josephburgh,Monaco,Credit Card
+773,Microsoft,Microsoft Political-606,Intel i9,4,512,419.89,2024-12-11,Thomasfort,Brunei Darussalam,Bank Transfer
+774,HP,HP Any-584,AMD Ryzen 3,8,1024,2707.62,2023-06-20,East Danielleborough,Malaysia,Bank Transfer
+775,Asus,Asus Position-508,AMD Ryzen 3,32,1024,1115.91,2022-09-17,Rachelberg,Mayotte,Debit Card
+776,MSI,MSI Form-751,AMD Ryzen 3,32,512,1632.55,2023-11-03,Judyview,Mexico,Cash
+777,Dell,Dell Give-663,AMD Ryzen 7,16,512,2827.19,2023-09-20,Lawsonstad,Solomon Islands,UPI
+778,Apple,Apple Crime-261,AMD Ryzen 3,16,2048,1296.32,2024-12-22,Lake Markfort,Mayotte,Debit Card
+779,Acer,Acer Save-985,AMD Ryzen 3,32,2048,997.44,2022-05-11,Sullivanton,Belgium,Cash
+780,MSI,MSI Church-240,Intel i3,8,256,1767.82,2024-11-01,Michaelchester,Taiwan,UPI
+781,Razer,Razer Science-565,Intel i5,8,512,931.95,2024-07-22,Lake Terryberg,Thailand,Credit Card
+782,Dell,Dell Leader-865,AMD Ryzen 3,16,2048,1542.47,2024-02-11,East Regina,Niue,PayPal
+783,Acer,Acer Ask-864,Intel i5,4,1024,1570.75,2023-06-01,New Christopher,Guernsey,Cash
+784,HP,HP Stage-515,AMD Ryzen 7,16,512,2687.98,2023-06-04,Jackieview,Belarus,Cash
+785,Samsung,Samsung Set-155,AMD Ryzen 5,32,2048,772.85,2023-05-30,South Shannon,Greece,Cash
+786,Asus,Asus Either-248,AMD Ryzen 5,8,1024,1801.71,2022-06-01,Ashleychester,Saint Lucia,Credit Card
+787,Razer,Razer Create-504,Intel i7,16,512,713.03,2022-12-01,Douglasberg,Jamaica,Bank Transfer
+788,Razer,Razer Wind-106,AMD Ryzen 5,32,1024,929.45,2024-10-03,Wallaceside,Canada,PayPal
+789,Samsung,Samsung New-791,Intel i9,16,256,1657.15,2022-05-06,South Jill,Fiji,PayPal
+790,Asus,Asus Movie-211,Intel i9,4,1024,1311.84,2023-05-05,West Katelyn,Cameroon,Bank Transfer
+791,Samsung,Samsung Prevent-638,Intel i5,4,512,1675.62,2022-08-29,South Camerontown,Mozambique,Cash
+792,Razer,Razer We-375,Intel i5,8,2048,2038.62,2024-03-21,West Thomaston,Saint Kitts and Nevis,Bank Transfer
+793,Apple,Apple Machine-833,AMD Ryzen 3,8,512,2099.63,2024-02-17,Jamesberg,Ukraine,UPI
+794,Acer,Acer Hit-597,AMD Ryzen 7,16,256,1578.85,2023-09-28,Stephanieview,Qatar,Credit Card
+795,Lenovo,Lenovo Treatment-820,AMD Ryzen 7,4,512,1792.03,2022-06-20,Gabriellaside,Micronesia,Credit Card
+796,HP,HP Eat-180,AMD Ryzen 7,32,256,1622.04,2023-10-26,Adamstown,Algeria,Credit Card
+797,Lenovo,Lenovo Quite-132,Intel i7,8,1024,2795.73,2024-09-14,East Rebecca,Saint Helena,PayPal
+798,Dell,Dell Husband-830,AMD Ryzen 5,32,256,1134.67,2023-10-31,Lake Dominic,Maldives,Debit Card
+799,MSI,MSI Town-597,Intel i5,32,512,2290.74,2023-05-10,Torresbury,Brunei Darussalam,Credit Card
+800,Microsoft,Microsoft Someone-310,Intel i3,16,1024,1833.55,2024-01-05,Port Paula,Timor-Leste,Bank Transfer
+801,Dell,Dell Policy-241,AMD Ryzen 7,16,512,2322.9,2022-11-23,North Heather,Thailand,Credit Card
+802,MSI,MSI Economic-715,Intel i7,16,2048,2023.8,2023-02-09,Port Jennifer,United States of America,PayPal
+803,Asus,Asus Require-530,AMD Ryzen 7,32,256,1214.72,2024-02-27,Port Maria,Czech Republic,UPI
+804,MSI,MSI Impact-868,Intel i5,16,256,648.74,2022-08-20,Whitebury,Finland,Debit Card
+805,Acer,Acer Security-319,Intel i3,8,512,1064.49,2022-08-09,Annaburgh,Mayotte,Bank Transfer
+806,HP,HP Control-279,Intel i7,4,256,698.56,2022-07-27,New Sabrinaport,French Southern Territories,UPI
+807,Dell,Dell Dog-839,Intel i7,4,1024,1631.13,2022-12-01,Timothychester,Luxembourg,Cash
+808,MSI,MSI Return-167,Intel i7,8,1024,2040.86,2024-05-03,Howellberg,San Marino,Credit Card
+809,Lenovo,Lenovo Trial-246,Intel i9,4,1024,2964.79,2023-11-22,East Jeffreystad,New Zealand,Bank Transfer
+810,Asus,Asus Very-195,Intel i5,16,2048,2806.9,2023-10-06,Ortiztown,Timor-Leste,PayPal
+811,Acer,Acer Thing-357,AMD Ryzen 3,16,1024,1670.9,2023-01-25,Grahamhaven,Mauritania,PayPal
+812,Asus,Asus Same-667,Intel i3,8,1024,430.14,2024-09-04,West Anitamouth,Tuvalu,Debit Card
+813,Samsung,Samsung She-205,Intel i5,8,256,2628.28,2023-10-17,Juliachester,Wallis and Futuna,Cash
+814,HP,HP But-782,Intel i9,32,256,525.51,2022-03-17,Lake Sherrifort,Sweden,Credit Card
+815,Acer,Acer Ball-976,AMD Ryzen 7,8,256,1757.26,2024-04-22,East Pamelaland,Togo,Credit Card
+816,Microsoft,Microsoft Field-130,AMD Ryzen 7,4,2048,2282.63,2022-11-29,New Marissa,Tuvalu,Credit Card
+817,Razer,Razer Benefit-539,AMD Ryzen 5,16,256,2877.05,2024-06-23,Estradachester,Egypt,Credit Card
+818,Razer,Razer Evening-349,Intel i7,32,2048,664.04,2022-05-26,Deniseberg,Bulgaria,Cash
+819,MSI,MSI Mouth-432,Intel i7,4,512,2453.73,2023-04-09,North Michaelville,British Indian Ocean Territory (Chagos Archipelago),Cash
+820,Lenovo,Lenovo Weight-551,Intel i7,8,2048,2018.08,2024-04-12,Vargashaven,Iran,Bank Transfer
+821,Lenovo,Lenovo Try-819,AMD Ryzen 7,4,1024,1511.47,2023-08-29,Lake Robert,Paraguay,Debit Card
+822,Apple,Apple Debate-369,Intel i9,16,256,1930.21,2022-06-02,Matthewhaven,San Marino,Bank Transfer
+823,HP,HP Feel-400,Intel i3,8,512,2474.22,2022-10-20,West Jade,Tokelau,UPI
+824,Microsoft,Microsoft Use-954,Intel i3,16,1024,985.66,2022-08-18,Johnsonville,Malaysia,Credit Card
+825,Samsung,Samsung About-460,Intel i7,4,512,1136.72,2023-03-03,Katieport,Thailand,Cash
+826,MSI,MSI Late-488,Intel i3,4,512,1967.16,2022-11-30,South Emily,Nauru,Cash
+827,Microsoft,Microsoft Value-441,Intel i9,32,1024,2187.27,2022-12-30,Reyesport,Congo,Debit Card
+828,Dell,Dell Both-450,Intel i5,16,256,2816.79,2024-11-30,Jamesburgh,American Samoa,PayPal
+829,HP,HP Audience-774,AMD Ryzen 7,32,2048,2691.14,2024-11-16,Lake Sarah,Kyrgyz Republic,Bank Transfer
+830,MSI,MSI Serve-850,AMD Ryzen 7,4,2048,1563.86,2022-05-20,New Johnnyfort,Liberia,PayPal
+831,MSI,MSI Hold-964,Intel i5,32,512,659.21,2023-07-03,North Matthewberg,Austria,Debit Card
+832,HP,HP Phone-269,Intel i3,32,512,1246.51,2024-11-24,North Cindyburgh,Montserrat,PayPal
+833,Lenovo,Lenovo They-782,AMD Ryzen 3,4,1024,760.58,2025-02-10,Cordovaview,Swaziland,Credit Card
+834,Samsung,Samsung Contain-895,Intel i9,8,1024,860.86,2023-12-10,Derrickburgh,United States Virgin Islands,UPI
+835,MSI,MSI Another-348,Intel i3,32,512,2793.04,2024-11-27,Davidtown,United States Virgin Islands,PayPal
+836,MSI,MSI Performance-676,Intel i7,32,512,2968.95,2024-05-06,Port Kennethview,Macedonia,Debit Card
+837,Razer,Razer Kitchen-161,Intel i7,4,2048,2264.99,2023-11-10,Laurenport,Grenada,Cash
+838,Microsoft,Microsoft Training-738,AMD Ryzen 3,4,256,2511.38,2023-02-02,North Jason,Syrian Arab Republic,UPI
+839,HP,HP Cause-396,Intel i3,32,256,1446.72,2024-02-07,North Melinda,Maldives,Bank Transfer
+840,Lenovo,Lenovo Seem-175,AMD Ryzen 7,8,256,1052.09,2022-10-02,Ryanfurt,Barbados,Credit Card
+841,MSI,MSI Operation-791,AMD Ryzen 7,32,256,1217.3,2024-11-22,Esparzaborough,Cayman Islands,Credit Card
+842,Dell,Dell Maintain-556,AMD Ryzen 7,4,256,2204.33,2024-10-23,East Sethfort,Slovenia,Bank Transfer
+843,Dell,Dell Policy-344,AMD Ryzen 7,16,256,2501.61,2025-01-09,Michellechester,Cote d'Ivoire,Bank Transfer
+844,Dell,Dell Law-798,AMD Ryzen 3,16,256,1376.09,2022-12-05,Boylefurt,Azerbaijan,Bank Transfer
+845,Asus,Asus Most-364,Intel i9,16,256,2197.38,2024-06-07,Duncanburgh,Germany,UPI
+846,Apple,Apple Peace-483,AMD Ryzen 5,16,2048,1513.54,2023-09-17,Lauraview,Serbia,Debit Card
+847,Razer,Razer Move-824,AMD Ryzen 5,32,2048,1052.43,2022-10-13,Johnsonstad,Albania,Bank Transfer
+848,Razer,Razer Development-265,AMD Ryzen 7,32,2048,1473.66,2023-02-09,Port Garyburgh,Zimbabwe,Credit Card
+849,Microsoft,Microsoft Realize-643,Intel i9,16,1024,1434.6,2023-10-30,Port Scottborough,Costa Rica,Credit Card
+850,Apple,Apple Firm-331,AMD Ryzen 3,8,256,774.13,2022-09-27,South Jacob,Congo,Credit Card
+851,Razer,Razer Inside-421,Intel i9,8,256,2747.44,2024-09-03,North Jennifer,Comoros,Debit Card
+852,Asus,Asus Result-210,Intel i3,4,1024,2893.64,2022-10-18,East Meredithberg,Costa Rica,PayPal
+853,HP,HP About-215,AMD Ryzen 5,16,512,1407.46,2023-01-30,Rogersborough,Iceland,Debit Card
+854,MSI,MSI Occur-175,AMD Ryzen 5,4,1024,579.52,2023-05-12,Sloanbury,Faroe Islands,Cash
+855,Microsoft,Microsoft Exactly-598,Intel i7,8,256,1897.89,2023-06-16,New Tom,Aruba,Cash
+856,Razer,Razer Relate-326,Intel i9,4,256,2434.83,2022-09-13,East Michael,Luxembourg,Credit Card
+857,Microsoft,Microsoft See-268,Intel i9,4,1024,1484.04,2024-08-14,Joebury,Sao Tome and Principe,UPI
+858,Microsoft,Microsoft Institution-680,Intel i3,8,2048,1070.93,2023-04-11,Suzanneville,Turkey,UPI
+859,Dell,Dell Real-113,AMD Ryzen 3,8,2048,695.43,2022-12-25,Paulborough,Czech Republic,Bank Transfer
+860,HP,HP Just-370,Intel i3,8,512,2763.75,2023-06-22,North Michael,Ukraine,Credit Card
+861,Razer,Razer To-821,Intel i5,4,512,2648.5,2022-08-25,Jacksonfurt,Luxembourg,Bank Transfer
+862,HP,HP Know-326,AMD Ryzen 3,4,1024,703.1,2023-10-10,East Ross,Sweden,UPI
+863,Apple,Apple Forward-513,Intel i3,16,512,1070.48,2024-09-18,North Lisa,Singapore,Cash
+864,Acer,Acer Attention-600,Intel i9,8,2048,2138.64,2023-05-07,Rebeccaberg,Gibraltar,PayPal
+865,HP,HP Look-257,AMD Ryzen 5,32,512,2525.08,2023-08-28,East Erin,Finland,PayPal
+866,Razer,Razer Speak-838,AMD Ryzen 7,16,2048,1994.08,2023-06-25,Carlostown,Jersey,Cash
+867,Lenovo,Lenovo Although-560,AMD Ryzen 3,32,256,906.2,2023-10-20,Kennethfort,Ghana,UPI
+868,Razer,Razer Continue-195,Intel i7,32,256,2816.64,2024-08-09,Melissashire,Lao People's Democratic Republic,Cash
+869,Microsoft,Microsoft Follow-232,AMD Ryzen 3,4,512,1729.45,2022-04-02,Toddport,Vietnam,UPI
+870,MSI,MSI Spend-669,Intel i9,32,512,1942.84,2024-12-10,Sherrystad,Mauritius,Debit Card
+871,Dell,Dell Home-516,AMD Ryzen 7,32,512,1032.3,2023-06-28,Smithside,Niue,Cash
+872,Microsoft,Microsoft Commercial-299,Intel i5,8,2048,1717.9,2024-07-21,Gomezchester,Benin,Credit Card
+873,Asus,Asus Group-237,Intel i5,32,2048,627.8,2024-04-22,South Natalie,Eritrea,Debit Card
+874,Lenovo,Lenovo Left-233,AMD Ryzen 7,4,2048,1236.28,2023-08-30,North Steven,Christmas Island,PayPal
+875,Asus,Asus Yet-783,Intel i7,8,512,2427.43,2023-01-31,New Matthew,Yemen,PayPal
+876,MSI,MSI Individual-861,Intel i7,8,2048,2880.52,2022-09-23,Georgeview,Rwanda,Bank Transfer
+877,MSI,MSI War-772,AMD Ryzen 3,16,2048,2644.44,2023-10-15,New Jamieton,Macedonia,Bank Transfer
+878,Razer,Razer Hit-507,AMD Ryzen 3,4,1024,806.71,2023-01-26,West Nicholas,Greece,Cash
+879,Microsoft,Microsoft Hundred-244,Intel i5,16,512,2481.54,2024-04-29,Karinahaven,Cote d'Ivoire,Bank Transfer
+880,Microsoft,Microsoft Might-280,AMD Ryzen 5,32,256,1687.18,2025-01-30,West Alyssa,South Georgia and the South Sandwich Islands,Bank Transfer
+881,Microsoft,Microsoft Outside-857,Intel i7,16,2048,620.19,2024-09-27,Benjaminborough,Belgium,Debit Card
+882,Asus,Asus Between-273,AMD Ryzen 5,16,1024,2507.97,2024-10-13,North Rubenhaven,Saint Barthelemy,Cash
+883,Lenovo,Lenovo Democratic-440,AMD Ryzen 7,32,512,2909.3,2024-10-14,North Kristen,Uzbekistan,Cash
+884,Acer,Acer Mention-372,AMD Ryzen 3,16,512,1560.96,2024-02-26,Vickieview,Lesotho,UPI
+885,Samsung,Samsung Medical-150,AMD Ryzen 7,32,1024,863.65,2022-11-11,Lake Jamesberg,Guinea-Bissau,PayPal
+886,HP,HP Fund-462,Intel i9,8,512,1914.8,2023-09-10,North Craig,Spain,UPI
+887,HP,HP State-180,Intel i9,8,512,1846.44,2022-05-03,Jonathanland,Azerbaijan,UPI
+888,Razer,Razer Single-576,AMD Ryzen 5,4,512,844.32,2023-04-07,Grantmouth,Tajikistan,UPI
+889,Apple,Apple Travel-711,Intel i7,16,2048,1726.58,2024-06-03,Tammybury,Singapore,UPI
+890,Asus,Asus Yeah-351,AMD Ryzen 3,8,256,747.22,2023-05-27,Amberland,Turks and Caicos Islands,PayPal
+891,Acer,Acer Security-619,AMD Ryzen 7,32,1024,983.12,2023-10-18,Mooreside,Namibia,UPI
+892,MSI,MSI Lot-429,Intel i3,16,2048,1196.62,2023-02-25,Westbury,Macao,Cash
+893,HP,HP Hospital-953,Intel i5,4,256,1121.28,2023-06-16,South Joshuahaven,Thailand,Cash
+894,Apple,Apple Item-278,AMD Ryzen 7,32,2048,1157.13,2023-04-02,Courtneyview,Ireland,UPI
+895,Samsung,Samsung Machine-808,Intel i9,16,1024,600.96,2024-04-30,Bethside,Saint Pierre and Miquelon,Credit Card
+896,Razer,Razer Both-112,Intel i9,16,2048,2378.79,2022-12-16,Fordmouth,Tuvalu,PayPal
+897,MSI,MSI Think-884,Intel i7,16,1024,1670.61,2023-04-03,East Erica,Brunei Darussalam,Debit Card
+898,MSI,MSI Professional-743,Intel i9,32,512,738.92,2023-04-10,North Jasmineburgh,Grenada,Cash
+899,Asus,Asus Hotel-735,AMD Ryzen 5,4,1024,1237.69,2023-07-27,North Anitashire,Bahamas,Cash
+900,Razer,Razer Suddenly-299,Intel i7,8,256,1710.41,2023-01-10,Ruizland,Kuwait,Bank Transfer
+901,Apple,Apple Market-232,Intel i7,4,256,1742.53,2023-07-18,East Jessica,Svalbard & Jan Mayen Islands,UPI
+902,MSI,MSI Film-844,Intel i7,16,256,700.25,2024-05-07,North Elizabethview,South Georgia and the South Sandwich Islands,Credit Card
+903,HP,HP Line-461,AMD Ryzen 5,16,256,2745.27,2023-01-24,Port Keithstad,Guernsey,UPI
+904,Asus,Asus Participant-256,Intel i3,32,256,1593.39,2023-05-28,West Alexismouth,Croatia,Bank Transfer
+905,Lenovo,Lenovo Receive-112,AMD Ryzen 5,32,256,482.1,2024-01-19,Matthewberg,Japan,PayPal
+906,HP,HP Wish-224,AMD Ryzen 7,4,2048,1939.35,2025-01-08,West Kimberly,Cape Verde,PayPal
+907,Razer,Razer Man-297,Intel i9,16,256,2511.14,2024-02-15,Cardenasburgh,Palestinian Territory,Credit Card
+908,HP,HP Local-164,Intel i9,32,512,2319.09,2024-12-02,Raymondland,Rwanda,PayPal
+909,Microsoft,Microsoft Ahead-823,AMD Ryzen 7,4,256,2554.53,2023-03-01,East Matthew,Saint Martin,Credit Card
+910,HP,HP Quickly-779,Intel i5,8,2048,1007.27,2022-07-31,Shawfurt,Suriname,PayPal
+911,HP,HP This-950,AMD Ryzen 7,8,2048,1515.02,2022-10-28,Jessicaview,Anguilla,Cash
+912,Lenovo,Lenovo Front-338,Intel i7,8,1024,2512.76,2023-01-27,Watsonville,Ghana,Credit Card
+913,MSI,MSI Develop-559,Intel i5,8,2048,2879.69,2022-05-30,Danielmouth,Antigua and Barbuda,Bank Transfer
+914,Razer,Razer Treatment-501,AMD Ryzen 5,4,512,410.53,2023-04-01,Reeseton,Eritrea,PayPal
+915,Acer,Acer Need-606,AMD Ryzen 3,8,2048,807.9,2023-09-11,East Thomasstad,Micronesia,UPI
+916,MSI,MSI Have-256,Intel i9,32,512,816.75,2023-12-06,New Samuel,Liberia,Cash
+917,MSI,MSI First-343,Intel i9,16,1024,2715.13,2022-09-28,Jennifershire,Cuba,Debit Card
+918,Acer,Acer Born-483,AMD Ryzen 7,4,1024,2141.69,2024-06-17,Robertoland,Brunei Darussalam,Credit Card
+919,Asus,Asus Listen-435,Intel i3,8,256,406.34,2022-07-14,Chelseymouth,Haiti,Bank Transfer
+920,Acer,Acer That-393,Intel i7,8,256,2613.4,2023-04-27,Port Michelleborough,Saint Lucia,Bank Transfer
+921,Apple,Apple Choose-392,Intel i5,4,1024,2842.75,2022-11-12,Garrisonport,Czech Republic,Debit Card
+922,Microsoft,Microsoft Style-493,AMD Ryzen 7,32,2048,496.42,2023-08-30,West Melissaton,Andorra,Cash
+923,MSI,MSI Gun-603,Intel i3,32,512,2133.46,2023-12-01,Bryantown,Bermuda,UPI
+924,Samsung,Samsung Foot-662,Intel i5,32,2048,472.29,2024-06-26,Maynardtown,Korea,Debit Card
+925,Microsoft,Microsoft Type-694,AMD Ryzen 3,32,256,1035.15,2022-12-02,Port Jerryville,Guernsey,Bank Transfer
+926,MSI,MSI Physical-577,Intel i5,16,512,1854.14,2024-02-04,Bryanborough,Oman,UPI
+927,Acer,Acer Market-173,AMD Ryzen 7,4,1024,1021.96,2024-11-06,Joneshaven,Dominica,UPI
+928,HP,HP Near-888,AMD Ryzen 3,16,1024,681.25,2024-10-28,Port Anthony,Malta,Cash
+929,Microsoft,Microsoft Create-284,Intel i9,32,1024,2258.11,2025-01-27,Hendersonburgh,Mexico,Credit Card
+930,Microsoft,Microsoft Street-564,Intel i3,32,256,1029.75,2024-05-07,Jacksonland,Equatorial Guinea,Bank Transfer
+931,HP,HP As-759,Intel i7,8,1024,1918.45,2023-03-18,East Charlenefurt,Moldova,Credit Card
+932,Microsoft,Microsoft Buy-333,AMD Ryzen 3,4,256,2490.84,2022-11-28,Owenside,Austria,Cash
+933,MSI,MSI Property-351,Intel i9,8,256,2547.77,2024-12-05,Brookstown,Sweden,PayPal
+934,Razer,Razer Senior-461,Intel i5,8,2048,1460.4,2022-11-22,Melissamouth,Gabon,PayPal
+935,Asus,Asus Drive-290,AMD Ryzen 3,4,1024,2891.81,2023-02-17,North Jennifer,Finland,Debit Card
+936,Razer,Razer Either-212,AMD Ryzen 7,8,256,1384.4,2024-12-03,Hardingbury,Singapore,UPI
+937,Acer,Acer Blood-949,Intel i9,4,2048,2941.06,2024-04-23,East Vanessaborough,India,Bank Transfer
+938,Samsung,Samsung Itself-908,Intel i9,4,512,1018.39,2022-11-16,Sarahhaven,Mozambique,Bank Transfer
+939,MSI,MSI Medical-950,AMD Ryzen 7,8,512,2281.73,2023-07-07,West Andrew,Lithuania,PayPal
+940,Microsoft,Microsoft Education-567,Intel i3,4,2048,1001.5,2023-10-25,South Deniseport,Lesotho,PayPal
+941,Razer,Razer Listen-331,AMD Ryzen 5,4,512,610.59,2024-04-12,Carlosland,Kazakhstan,UPI
+942,Razer,Razer Scene-359,Intel i9,4,512,2054.42,2022-12-23,Luisside,Netherlands,Cash
+943,Samsung,Samsung Begin-607,Intel i7,32,1024,984.99,2022-08-19,Knightborough,Christmas Island,Credit Card
+944,Asus,Asus Mission-997,AMD Ryzen 3,4,2048,1401.67,2022-08-17,Rogersburgh,Iceland,Debit Card
+945,Razer,Razer Me-633,Intel i7,4,2048,1107.38,2023-09-28,North Davidview,Slovenia,Debit Card
+946,Lenovo,Lenovo Around-845,Intel i7,8,2048,1152.4,2024-01-24,Paulview,Nigeria,PayPal
+947,HP,HP Face-677,Intel i3,16,256,1083.24,2023-04-14,North Dawn,Marshall Islands,UPI
+948,Asus,Asus Nation-116,Intel i7,16,2048,945.54,2024-10-16,Hernandezmouth,Senegal,Cash
+949,Microsoft,Microsoft Heavy-408,Intel i3,8,512,2066.54,2023-07-25,Jennifermouth,Zambia,UPI
+950,Lenovo,Lenovo Its-878,Intel i9,4,256,2629.99,2024-02-05,East Carol,Saint Helena,Debit Card
+951,Acer,Acer Win-369,Intel i5,8,256,1399.12,2023-12-07,Danielton,Christmas Island,Cash
+952,Dell,Dell Threat-411,Intel i3,4,2048,2379.18,2023-01-17,Stewartberg,Saint Lucia,UPI
+953,MSI,MSI Identify-884,AMD Ryzen 3,8,256,2125.1,2025-01-31,Port Taylorberg,Palestinian Territory,PayPal
+954,HP,HP Movement-666,Intel i3,32,512,1893.63,2023-06-22,South Andrew,Bangladesh,Debit Card
+955,Lenovo,Lenovo Trip-284,AMD Ryzen 5,4,1024,2968.26,2022-06-28,Burkeland,Dominica,Debit Card
+956,Razer,Razer Drug-186,Intel i7,8,2048,2200.86,2022-11-21,East Ashley,Mayotte,Credit Card
+957,Apple,Apple Close-580,AMD Ryzen 3,8,512,2116.55,2024-05-13,Thompsonfurt,Iraq,PayPal
+958,MSI,MSI Arrive-584,Intel i3,32,256,2959.81,2022-04-24,Lake Melissaland,Malawi,Debit Card
+959,Apple,Apple Difference-640,Intel i3,16,256,1677.35,2024-09-20,Anitaside,Albania,Bank Transfer
+960,Apple,Apple Late-574,AMD Ryzen 5,32,512,2513.76,2024-02-22,Amyfurt,Iceland,Credit Card
+961,Lenovo,Lenovo Finish-366,Intel i5,4,256,1280.82,2024-11-17,Alexport,Marshall Islands,UPI
+962,Samsung,Samsung North-685,Intel i5,16,2048,2667.21,2024-01-19,West James,El Salvador,Bank Transfer
+963,Microsoft,Microsoft Television-328,AMD Ryzen 5,32,256,2046.03,2024-02-25,New Crystal,French Southern Territories,UPI
+964,Dell,Dell Plan-611,AMD Ryzen 3,8,1024,1213.19,2024-08-19,Cabrerafort,New Caledonia,PayPal
+965,Asus,Asus Job-782,Intel i5,8,2048,1190.46,2022-06-09,Port Logan,Kazakhstan,Cash
+966,Asus,Asus Sister-993,Intel i9,32,1024,1108.96,2022-03-16,Fergusontown,Turkmenistan,PayPal
+967,Dell,Dell Report-733,Intel i5,4,1024,2435.43,2024-03-11,Murphyshire,Belgium,Cash
+968,Acer,Acer Million-660,AMD Ryzen 3,32,512,1862.51,2022-03-19,Tracyview,Tanzania,Credit Card
+969,Microsoft,Microsoft Head-976,AMD Ryzen 5,8,256,937.41,2024-03-16,Sandrabury,Monaco,Cash
+970,Samsung,Samsung Food-676,Intel i9,16,1024,1544.27,2024-03-15,West Stephanie,Barbados,Credit Card
+971,MSI,MSI Easy-435,AMD Ryzen 5,4,1024,2328.13,2022-04-06,Francesfurt,Bouvet Island (Bouvetoya),Debit Card
+972,Microsoft,Microsoft Wonder-128,AMD Ryzen 5,8,512,2429.16,2024-11-19,Garyhaven,Puerto Rico,PayPal
+973,Asus,Asus Capital-689,AMD Ryzen 3,4,512,1376.66,2024-06-02,New Amyshire,Nauru,Credit Card
+974,MSI,MSI Your-479,Intel i5,32,256,2026.55,2024-04-04,Nicholasview,Jordan,Cash
+975,HP,HP Keep-250,AMD Ryzen 7,8,1024,2736.6,2024-07-13,Georgeburgh,Sweden,PayPal
+976,Dell,Dell Site-860,Intel i7,4,2048,2230.29,2022-02-19,East Debbiemouth,Moldova,PayPal
+977,HP,HP Material-717,Intel i7,16,2048,1082.67,2023-02-20,Laurieside,Suriname,PayPal
+978,Microsoft,Microsoft Able-796,AMD Ryzen 3,16,2048,1693.63,2024-06-26,Guzmanland,Sweden,Bank Transfer
+979,Samsung,Samsung Issue-135,AMD Ryzen 7,4,512,1296.85,2023-01-29,Fernandezside,Saudi Arabia,Bank Transfer
+980,Acer,Acer Despite-647,Intel i7,8,1024,753.3,2024-07-29,Gibbsberg,Cote d'Ivoire,Credit Card
+981,Lenovo,Lenovo Participant-934,Intel i7,16,512,1625.59,2022-04-27,New Michaelmouth,Finland,Bank Transfer
+982,Lenovo,Lenovo Smile-700,Intel i7,32,256,2260.21,2023-12-24,Port Dustin,Svalbard & Jan Mayen Islands,UPI
+983,Apple,Apple Sport-232,Intel i7,16,1024,1780.36,2024-02-21,South Gregory,Niue,UPI
+984,Microsoft,Microsoft Reduce-288,AMD Ryzen 7,8,1024,1608.27,2022-10-01,South Nathan,Guam,Credit Card
+985,Razer,Razer Question-684,Intel i7,32,2048,1537.6,2023-01-12,East Michaelland,Lebanon,Debit Card
+986,Lenovo,Lenovo Hot-338,Intel i9,4,512,476.09,2023-10-31,North Sarahmouth,Central African Republic,PayPal
+987,Lenovo,Lenovo Long-515,Intel i7,4,1024,878.29,2022-04-09,Reginamouth,Namibia,Bank Transfer
+988,Dell,Dell Administration-455,Intel i9,16,512,1942.68,2022-05-21,North Kristin,Saint Helena,Debit Card
+989,Dell,Dell Friend-927,AMD Ryzen 3,32,2048,1294.7,2023-09-11,Tiffanybury,Comoros,Cash
+990,Razer,Razer Nice-723,AMD Ryzen 3,16,256,1343.5,2022-12-13,Meganmouth,Gabon,Debit Card
+991,MSI,MSI Simple-957,AMD Ryzen 7,4,1024,2151.31,2022-03-02,South Donnashire,Lithuania,Debit Card
+992,Acer,Acer General-555,Intel i9,32,256,2797.92,2022-04-03,Cabrerafurt,Lesotho,Bank Transfer
+993,Lenovo,Lenovo National-820,Intel i5,4,512,600.6,2022-11-20,West Wayne,Equatorial Guinea,UPI
+994,Samsung,Samsung Up-753,Intel i5,8,1024,1186.16,2023-03-30,North Patrickport,Pakistan,Cash
+995,Acer,Acer Recently-713,Intel i5,4,512,1798.15,2023-08-18,Townsendburgh,Mozambique,Credit Card
+996,HP,HP Adult-340,AMD Ryzen 3,4,2048,694.42,2023-07-06,Andrewstad,Jersey,Cash
+997,Samsung,Samsung Process-212,Intel i5,8,512,1949.2,2023-04-27,New Rachel,Northern Mariana Islands,Debit Card
+998,HP,HP Child-352,Intel i9,4,512,2500.76,2024-11-11,South Steven,Panama,UPI
+999,Apple,Apple Main-228,AMD Ryzen 7,32,1024,2232.54,2023-06-15,East Emilyborough,Grenada,Credit Card
+1000,Acer,Acer Pass-956,Intel i9,32,512,2433.12,2024-05-21,South Thomasstad,Guam,UPI
