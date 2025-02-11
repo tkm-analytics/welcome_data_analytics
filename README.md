@@ -1,5 +1,3 @@
-# welcome to data engineering
-
 # Data Analysis Project
 
 Welcome to the Data Analysis Project. This project focuses on analyzing and deriving insights from the provided dataset through various data analysis techniques.
